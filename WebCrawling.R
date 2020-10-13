@@ -144,13 +144,15 @@ game_info_df <- data.frame(Won_toss = character(0),
                            Surface = character(0),
                            Duration = character(0), 
                            Attendance = character(0),
+                           Weather = character(0),
                            Vegas_line = character(0),
-                           Over_under = character(0))
+                           Over_under = character(0),
+                           urls = character(0))
 
 # Removing duplicate games
 urls_unique <- unique(games_df$gameurl)
-
-for (i in urls_unique) {
+urls5 <- urls_unique[1:5]
+for (i in urls5) {
   print(i) 
   url<-GET(i) 
   Sys.sleep(5) 
@@ -161,23 +163,38 @@ for (i in urls_unique) {
   table_comment_clean2 <- gsub("-->", "", table_comment_clean)
   page2 <- read_html(table_comment_clean2)
   
+  rows <- xml_find_all(page2,"//table[@id='game_info']//tr")
+  if (length(rows)==8) {
   Won_toss<-xml_text(xml_find_all(page2, "//table[@id='game_info']//tr[2]/td"))
   Roof <- xml_text(xml_find_all(page2, "//table[@id='game_info']//tr[3]/td"))
   Surface <- xml_text(xml_find_all(page2, "//table[@id='game_info']//tr[4]/td"))
   Duration <- xml_text(xml_find_all(page2, "//table[@id='game_info']//tr[5]/td"))
   Attendance <- xml_text(xml_find_all(page2, "//table[@id='game_info']//tr[6]/td"))
+  Weather <- NA
   Vegas_line <- xml_text(xml_find_all(page2, "//table[@id='game_info']//tr[7]/td"))
   Over_under <- xml_text(xml_find_all(page2, "//table[@id='game_info']//tr[8]/td"))
-  
+  }
+  else {
+    Won_toss<-xml_text(xml_find_all(page2, "//table[@id='game_info']//tr[2]/td"))
+    Roof <- xml_text(xml_find_all(page2, "//table[@id='game_info']//tr[3]/td"))
+    Surface <- xml_text(xml_find_all(page2, "//table[@id='game_info']//tr[4]/td"))
+    Duration <- xml_text(xml_find_all(page2, "//table[@id='game_info']//tr[5]/td"))
+    Attendance <- xml_text(xml_find_all(page2, "//table[@id='game_info']//tr[6]/td"))
+    Weather <- xml_text(xml_find_all(page2, "//table[@id='game_info']//tr[7]/td"))
+    Vegas_line <- xml_text(xml_find_all(page2, "//table[@id='game_info']//tr[8]/td"))
+    Over_under <- xml_text(xml_find_all(page2, "//table[@id='game_info']//tr[9]/td"))
+  }
   game_info_temp <- data.frame(
                     Won_toss,
                     Roof,
                     Surface,
                     Duration,
                     Attendance,
+                    Weather,
                     Vegas_line,
                     Over_under)
   
+  game_info_temp$urls<-rep(i,nrow(game_info_temp))
   
   game_info_df<-rbind(game_info_df, game_info_temp)
 }
