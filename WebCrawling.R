@@ -151,8 +151,8 @@ game_info_df <- data.frame(Won_toss = character(0),
 
 # Removing duplicate games
 urls_unique <- unique(games_df$gameurl)
-urls5 <- urls_unique[1:5]
-for (i in urls5) {
+urls_secondhalf <- urls_unique[3002:5646]
+for (i in urls_secondhalf) {
   print(i) 
   url<-GET(i) 
   Sys.sleep(5) 
@@ -164,15 +164,36 @@ for (i in urls5) {
   page2 <- read_html(table_comment_clean2)
   
   rows <- xml_find_all(page2,"//table[@id='game_info']//tr")
-  if (length(rows)==8) {
+  if (length(rows)==6) {
+    Won_toss<-xml_text(xml_find_all(page2, "//table[@id='game_info']//tr[2]/td"))
+    Roof <- NA
+    Surface <- xml_text(xml_find_all(page2, "//table[@id='game_info']//tr[3]/td"))
+    Duration <- xml_text(xml_find_all(page2, "//table[@id='game_info']//tr[4]/td"))
+    attendance <- NA
+    Weather <- NA
+    Vegas_line <- xml_text(xml_find_all(page2, "//table[@id='game_info']//tr[5]/td"))
+    Over_under <- xml_text(xml_find_all(page2, "//table[@id='game_info']//tr[6]/td"))
+  }
+  
+  else if (length(rows)==7) {
   Won_toss<-xml_text(xml_find_all(page2, "//table[@id='game_info']//tr[2]/td"))
   Roof <- xml_text(xml_find_all(page2, "//table[@id='game_info']//tr[3]/td"))
   Surface <- xml_text(xml_find_all(page2, "//table[@id='game_info']//tr[4]/td"))
   Duration <- xml_text(xml_find_all(page2, "//table[@id='game_info']//tr[5]/td"))
-  Attendance <- xml_text(xml_find_all(page2, "//table[@id='game_info']//tr[6]/td"))
+  attendance <- NA
   Weather <- NA
-  Vegas_line <- xml_text(xml_find_all(page2, "//table[@id='game_info']//tr[7]/td"))
-  Over_under <- xml_text(xml_find_all(page2, "//table[@id='game_info']//tr[8]/td"))
+  Vegas_line <- xml_text(xml_find_all(page2, "//table[@id='game_info']//tr[6]/td"))
+  Over_under <- xml_text(xml_find_all(page2, "//table[@id='game_info']//tr[7]/td"))
+  }
+  else if (length(rows)==8) {
+    Won_toss<-xml_text(xml_find_all(page2, "//table[@id='game_info']//tr[2]/td"))
+    Roof <- xml_text(xml_find_all(page2, "//table[@id='game_info']//tr[3]/td"))
+    Surface <- xml_text(xml_find_all(page2, "//table[@id='game_info']//tr[4]/td"))
+    Duration <- xml_text(xml_find_all(page2, "//table[@id='game_info']//tr[5]/td"))
+    Attendance <- xml_text(xml_find_all(page2, "//table[@id='game_info']//tr[6]/td"))
+    Weather <- NA
+    Vegas_line <- xml_text(xml_find_all(page2, "//table[@id='game_info']//tr[7]/td"))
+    Over_under <- xml_text(xml_find_all(page2, "//table[@id='game_info']//tr[8]/td"))
   }
   else {
     Won_toss<-xml_text(xml_find_all(page2, "//table[@id='game_info']//tr[2]/td"))
@@ -202,4 +223,5 @@ for (i in urls5) {
 
 save(game_info_df, file="game_info.rda")
 write.csv(game_info_df, "game_info.csv", row.names=FALSE)
+
 
