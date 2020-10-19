@@ -222,6 +222,6 @@ for (i in urls_secondhalf) {
 
 
 save(game_info_df, file="game_info.rda")
-write.csv(game_info_df, "game_info.csv", row.names=FALSE)
+#write.csv(game_info_df, "game_info.csv", row.names=FALSE)
 
 

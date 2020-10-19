@@ -6,6 +6,7 @@ library(reshape2)
 load("officials_overview.rda")
 load("officials_stats.rda")
 load("officials_games.rda")
+load("game_info.rda")
 
 
 ###############################################################################
