@@ -138,89 +138,100 @@ write.csv(games_df, "officals_games.csv", row.names=FALSE)
 # games_df
 load("officials_games.rda")
 
-
-game_info_df <- data.frame(Won_toss = character(0),
-                           Roof = character(0),
-                           Surface = character(0),
-                           Duration = character(0), 
-                           Attendance = character(0),
-                           Weather = character(0),
-                           Vegas_line = character(0),
-                           Over_under = character(0),
+game_info_df <- data.frame(won_toss = character(0),
+                           OT_toss = character(0),
+                           roof = character(0),
+                           surface = character(0),
+                           duration = character(0), 
+                           attendance = character(0),
+                           weather = character(0),
                            urls = character(0))
 
 # Removing duplicate games
 urls_unique <- unique(games_df$gameurl)
-urls_secondhalf <- urls_unique[3002:5646]
-for (i in urls_secondhalf) {
-  print(i) 
-  url<-GET(i) 
-  Sys.sleep(5) 
-  page<-read_html(url)
+urls_temp <- urls_unique[4183:5646]
+for (i in urls_temp) {
+  print(i)
+  url <- GET(i)
+  Sys.sleep(5)
+  pg <- read_html(url)
   
-  table_comment <- xml_find_all(page, "//div[@id='all_game_info']//comment()")
+  table_comment <- xml_find_all(pg, "//div[@id='all_game_info']//comment()")
   table_comment_clean<- gsub("<!--" , "", table_comment)
   table_comment_clean2 <- gsub("-->", "", table_comment_clean)
   page2 <- read_html(table_comment_clean2)
   
-  rows <- xml_find_all(page2,"//table[@id='game_info']//tr")
-  if (length(rows)==6) {
-    Won_toss<-xml_text(xml_find_all(page2, "//table[@id='game_info']//tr[2]/td"))
-    Roof <- NA
-    Surface <- xml_text(xml_find_all(page2, "//table[@id='game_info']//tr[3]/td"))
-    Duration <- xml_text(xml_find_all(page2, "//table[@id='game_info']//tr[4]/td"))
-    attendance <- NA
-    Weather <- NA
-    Vegas_line <- xml_text(xml_find_all(page2, "//table[@id='game_info']//tr[5]/td"))
-    Over_under <- xml_text(xml_find_all(page2, "//table[@id='game_info']//tr[6]/td"))
+  won_toss_temp <- xml_find_all(page2, "//table[@id='game_info']//tr/th[contains(text(), 'Won Toss')]/following-sibling::td")
+  if (length(won_toss_temp) > 0) {
+    won_toss <- xml_text(won_toss_temp)
+  }
+  else{
+    won_toss <- NA
   }
   
-  else if (length(rows)==7) {
-  Won_toss<-xml_text(xml_find_all(page2, "//table[@id='game_info']//tr[2]/td"))
-  Roof <- xml_text(xml_find_all(page2, "//table[@id='game_info']//tr[3]/td"))
-  Surface <- xml_text(xml_find_all(page2, "//table[@id='game_info']//tr[4]/td"))
-  Duration <- xml_text(xml_find_all(page2, "//table[@id='game_info']//tr[5]/td"))
-  attendance <- NA
-  Weather <- NA
-  Vegas_line <- xml_text(xml_find_all(page2, "//table[@id='game_info']//tr[6]/td"))
-  Over_under <- xml_text(xml_find_all(page2, "//table[@id='game_info']//tr[7]/td"))
-  }
-  else if (length(rows)==8) {
-    Won_toss<-xml_text(xml_find_all(page2, "//table[@id='game_info']//tr[2]/td"))
-    Roof <- xml_text(xml_find_all(page2, "//table[@id='game_info']//tr[3]/td"))
-    Surface <- xml_text(xml_find_all(page2, "//table[@id='game_info']//tr[4]/td"))
-    Duration <- xml_text(xml_find_all(page2, "//table[@id='game_info']//tr[5]/td"))
-    Attendance <- xml_text(xml_find_all(page2, "//table[@id='game_info']//tr[6]/td"))
-    Weather <- NA
-    Vegas_line <- xml_text(xml_find_all(page2, "//table[@id='game_info']//tr[7]/td"))
-    Over_under <- xml_text(xml_find_all(page2, "//table[@id='game_info']//tr[8]/td"))
+  OT_toss_temp <- xml_find_all(page2, "//table[@id='game_info']//tr/th[contains(text(), 'Won OT Toss')]/following-sibling::td" )
+  if (length(OT_toss_temp)>0) {
+    OT_toss <- xml_text(OT_toss_temp)
   }
   else {
-    Won_toss<-xml_text(xml_find_all(page2, "//table[@id='game_info']//tr[2]/td"))
-    Roof <- xml_text(xml_find_all(page2, "//table[@id='game_info']//tr[3]/td"))
-    Surface <- xml_text(xml_find_all(page2, "//table[@id='game_info']//tr[4]/td"))
-    Duration <- xml_text(xml_find_all(page2, "//table[@id='game_info']//tr[5]/td"))
-    Attendance <- xml_text(xml_find_all(page2, "//table[@id='game_info']//tr[6]/td"))
-    Weather <- xml_text(xml_find_all(page2, "//table[@id='game_info']//tr[7]/td"))
-    Vegas_line <- xml_text(xml_find_all(page2, "//table[@id='game_info']//tr[8]/td"))
-    Over_under <- xml_text(xml_find_all(page2, "//table[@id='game_info']//tr[9]/td"))
+    OT_toss <- NA
   }
+  
+  roof_temp <- xml_find_all(page2, "//table[@id='game_info']//tr/th[contains(text(), 'Roof')]/following-sibling::td" )
+  if (length(roof_temp)>0) {
+    roof <- xml_text(roof_temp)
+  }
+  else {
+    roof <- NA
+  }
+  
+  surface_temp <- xml_find_all(page2, "//table[@id='game_info']//tr/th[contains(text(), 'Surface')]/following-sibling::td" )
+  if (length(surface_temp)>0) {
+    surface <- xml_text(surface_temp)
+  }
+  else {
+    surface <- NA
+  }
+  
+  duration_temp <- xml_find_all(page2, "//table[@id='game_info']//tr/th[contains(text(), 'Duration')]/following-sibling::td" )
+  if (length(duration_temp)>0) {
+    duration <- xml_text(duration_temp)
+  }
+  else {
+    duration <- NA
+  }
+  
+  attendance_temp <- xml_find_all(page2, "//table[@id='game_info']//tr/th[contains(text(), 'Attendance')]/following-sibling::td" )
+  if (length(attendance_temp)>0) {
+    attendance <- xml_text(attendance_temp)
+  }
+  else {
+    attendance <- NA
+  }
+  
+  weather_temp <- xml_find_all(page2, "//table[@id='game_info']//tr/th[contains(text(), 'Weather')]/following-sibling::td" )
+  if (length(weather_temp)>0) {
+    weather <- xml_text(weather_temp)
+  }
+  else {
+    weather <- NA
+  }
+  
   game_info_temp <- data.frame(
-                    Won_toss,
-                    Roof,
-                    Surface,
-                    Duration,
-                    Attendance,
-                    Weather,
-                    Vegas_line,
-                    Over_under)
+    won_toss,
+    OT_toss,
+    roof,
+    surface,
+    duration,
+    attendance,
+    weather)
   
   game_info_temp$urls<-rep(i,nrow(game_info_temp))
   
   game_info_df<-rbind(game_info_df, game_info_temp)
 }
 
-
+#save the df
 save(game_info_df, file="game_info.rda")
 #write.csv(game_info_df, "game_info.csv", row.names=FALSE)
 
