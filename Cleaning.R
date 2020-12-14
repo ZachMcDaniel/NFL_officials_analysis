@@ -222,10 +222,9 @@ save(game_info_df, file = "game_info.rda")
 
 ###############################################################################
 # Combine game_info_df and games_df
-
+library(dplyr)
 combined_game_info_df <- merge(game_info_df, games_df, by = "gameurl")
 save(combined_game_info_df, file = "Official_Games_Merged.rda")
 
 complete_official_data <- merge(combined_game_info_df, officials_stats, by = "urls") 
 #has 610105rows
-#
