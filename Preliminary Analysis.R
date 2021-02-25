@@ -110,8 +110,45 @@ t.test(officials_stats$start_year[officials_stats$harsh == 0], officials_stats$s
 table(as.factor(officials_stats$start_year), officials_stats$harsh)
 
 readr::write_csv(officials_stats, "Official_Stats_Rattle.csv")
+################################################################################
+#Making Numeric & Categoric only DF
+################################################################################
+load("game_with_total_experience.rda")
+library(readr)
+library(dplyr)
+num_game_df <- select(game_df, duration_min, attendance, temp, humidity, wind, `wind chill`,
+                             home_points, home_penalties, home_yards, away_points, away_penalties,
+                             away_yards, total_experience)
+
+cat_game_df <- select(game_df, won_toss, OT_toss, roof, surface, date, home_team, away_team, year)
+
+################################################################################
+#Correlation Matrix for game_df with total experience
+################################################################################
+load("game_with_total_experience.rda")
 
 
+## To filter on correlations, we first get the correlation matrix for the 
+## predictor set
+dfnumCorr <- cor(game_df) 
 
+## caret's findCorrelation function is used to identify columns to remove.
+## The absolute values of pair-wise correlations are considered. If two variables 
+## have a high correlation, the function looks at the mean absolute correlation
+## of each variable and removes the variable with the largest mean absolute correlation.
+library(caret)
+highCorr <- findCorrelation(dfnumCorr, .75)
+highCorr
+
+#Check columns before removing
+#####names(dffull[highCorr]) this was incorrect dataframe form Script 4v5
+names(game_df[highCorr])
+
+#####Added addition functions to write the correlation out in a file for visual analysis
+#change to dataframe
+outCorMatrx = as.data.frame(dfnumCorr)
+
+#write correlation matrix
+write.csv(outCorMatrx, "SummaryTableCorMatrx.csv", row.names = TRUE)
 
 

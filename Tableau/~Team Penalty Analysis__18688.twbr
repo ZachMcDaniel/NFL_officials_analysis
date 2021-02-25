@@ -1,0 +1,682 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20204.21.0114.0916                               -->
+<workbook source-build='2020.4.1 (20204.21.0114.0916)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <_.fcp.MarkAnimation.true...MarkAnimation />
+    <_.fcp.ObjectModelEncapsulateLegacy.true...ObjectModelEncapsulateLegacy />
+    <_.fcp.ObjectModelTableType.true...ObjectModelTableType />
+    <_.fcp.SchemaViewerObjectModel.true...SchemaViewerObjectModel />
+    <SheetIdentifierTracking />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <datasources>
+    <datasource caption='team_penalties_by_year (team_penalties_by_year)' inline='true' name='federated.0ybiarh0aohyf01ead9vo15ig8ud' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='team_penalties_by_year' name='excel-direct.18nol2a18ojoqv1gwyd9y0puml26'>
+            <connection class='excel-direct' cleaning='no' compat='no' dataRefreshTime='' filename='C:/Users/zmcda/OneDrive - University of Iowa/University of Iowa/Thesis/NFL_officials_analysis/tables/team_penalties_by_year.xlsx' interpretationMode='0' password='' server='' validate='no' />
+          </named-connection>
+        </named-connections>
+        <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='excel-direct.18nol2a18ojoqv1gwyd9y0puml26' name='team_penalties_by_year' table='[team_penalties_by_year$]' type='table'>
+          <columns gridOrigin='A1:H702:no:A1:H702:0' header='yes' outcome='6'>
+            <column datatype='string' name='team_name' ordinal='0' />
+            <column datatype='integer' name='year' ordinal='1' />
+            <column datatype='integer' name='total_home_penalties' ordinal='2' />
+            <column datatype='integer' name='home_yards' ordinal='3' />
+            <column datatype='integer' name='total_away_penalties' ordinal='4' />
+            <column datatype='integer' name='away_yards' ordinal='5' />
+            <column datatype='integer' name='total_penalties' ordinal='6' />
+            <column datatype='integer' name='total_yards' ordinal='7' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.false...relation>
+        <_.fcp.ObjectModelEncapsulateLegacy.true...relation connection='excel-direct.18nol2a18ojoqv1gwyd9y0puml26' name='team_penalties_by_year' table='[team_penalties_by_year$]' type='table'>
+          <columns gridOrigin='A1:H702:no:A1:H702:0' header='yes' outcome='6'>
+            <column datatype='string' name='team_name' ordinal='0' />
+            <column datatype='integer' name='year' ordinal='1' />
+            <column datatype='integer' name='total_home_penalties' ordinal='2' />
+            <column datatype='integer' name='home_yards' ordinal='3' />
+            <column datatype='integer' name='total_away_penalties' ordinal='4' />
+            <column datatype='integer' name='away_yards' ordinal='5' />
+            <column datatype='integer' name='total_penalties' ordinal='6' />
+            <column datatype='integer' name='total_yards' ordinal='7' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.true...relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[team_penalties_by_year]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='context'>0</attribute>
+              <attribute datatype='string' name='gridOrigin'>&quot;A1:H702:no:A1:H702:0&quot;</attribute>
+              <attribute datatype='boolean' name='header'>true</attribute>
+              <attribute datatype='integer' name='outcome'>6</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>team_name</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[team_name]</local-name>
+            <parent-name>[team_penalties_by_year]</parent-name>
+            <remote-alias>team_name</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RUS_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[team!penalties!by!year_81A8D7F767794978845E2F0524DE833E]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>year</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[year]</local-name>
+            <parent-name>[team_penalties_by_year]</parent-name>
+            <remote-alias>year</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[team!penalties!by!year_81A8D7F767794978845E2F0524DE833E]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>total_home_penalties</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[total_home_penalties]</local-name>
+            <parent-name>[team_penalties_by_year]</parent-name>
+            <remote-alias>total_home_penalties</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[team!penalties!by!year_81A8D7F767794978845E2F0524DE833E]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>home_yards</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[home_yards]</local-name>
+            <parent-name>[team_penalties_by_year]</parent-name>
+            <remote-alias>home_yards</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[team!penalties!by!year_81A8D7F767794978845E2F0524DE833E]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>total_away_penalties</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[total_away_penalties]</local-name>
+            <parent-name>[team_penalties_by_year]</parent-name>
+            <remote-alias>total_away_penalties</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[team!penalties!by!year_81A8D7F767794978845E2F0524DE833E]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>away_yards</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[away_yards]</local-name>
+            <parent-name>[team_penalties_by_year]</parent-name>
+            <remote-alias>away_yards</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[team!penalties!by!year_81A8D7F767794978845E2F0524DE833E]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>total_penalties</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[total_penalties]</local-name>
+            <parent-name>[team_penalties_by_year]</parent-name>
+            <remote-alias>total_penalties</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[team!penalties!by!year_81A8D7F767794978845E2F0524DE833E]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>total_yards</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[total_yards]</local-name>
+            <parent-name>[team_penalties_by_year]</parent-name>
+            <remote-alias>total_yards</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[team!penalties!by!year_81A8D7F767794978845E2F0524DE833E]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <_.fcp.ObjectModelTableType.true...column caption='team_penalties_by_year' datatype='table' name='[__tableau_internal_object_id__].[team!penalties!by!year_81A8D7F767794978845E2F0524DE833E]' role='measure' type='quantitative' />
+      <column caption='Away Yards' datatype='integer' name='[away_yards]' role='measure' type='quantitative' />
+      <column caption='Home Yards' datatype='integer' name='[home_yards]' role='measure' type='quantitative' />
+      <column caption='Team Name' datatype='string' name='[team_name]' role='dimension' type='nominal' />
+      <column caption='Total Away Penalties' datatype='integer' name='[total_away_penalties]' role='measure' type='quantitative' />
+      <column caption='Total Home Penalties' datatype='integer' name='[total_home_penalties]' role='measure' type='quantitative' />
+      <column caption='Total Penalties' datatype='integer' name='[total_penalties]' role='measure' type='quantitative' />
+      <column caption='Total Yards' datatype='integer' name='[total_yards]' role='measure' type='quantitative' />
+      <column caption='Year' datatype='integer' name='[year]' role='dimension' type='quantitative' />
+      <column-instance column='[team_name]' derivation='None' name='[none:team_name:nk]' pivot='key' type='nominal' />
+      <column-instance column='[year]' derivation='None' name='[none:year:qk]' pivot='key' type='quantitative' />
+      <group hidden='true' name='[Exclusions (Team Name,Year)]' name-style='unqualified' user:auto-column='exclude'>
+        <groupfilter function='crossjoin'>
+          <groupfilter function='level-members' level='[none:team_name:nk]' />
+          <groupfilter function='level-members' level='[none:year:qk]' />
+        </groupfilter>
+      </group>
+      <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
+      </semantic-values>
+      <_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+        <objects>
+          <object caption='team_penalties_by_year' id='team!penalties!by!year_81A8D7F767794978845E2F0524DE833E'>
+            <properties context=''>
+              <relation connection='excel-direct.18nol2a18ojoqv1gwyd9y0puml26' name='team_penalties_by_year' table='[team_penalties_by_year$]' type='table'>
+                <columns gridOrigin='A1:H702:no:A1:H702:0' header='yes' outcome='6'>
+                  <column datatype='string' name='team_name' ordinal='0' />
+                  <column datatype='integer' name='year' ordinal='1' />
+                  <column datatype='integer' name='total_home_penalties' ordinal='2' />
+                  <column datatype='integer' name='home_yards' ordinal='3' />
+                  <column datatype='integer' name='total_away_penalties' ordinal='4' />
+                  <column datatype='integer' name='away_yards' ordinal='5' />
+                  <column datatype='integer' name='total_penalties' ordinal='6' />
+                  <column datatype='integer' name='total_yards' ordinal='7' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+        </objects>
+      </_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='AVG Season Yards'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='team_penalties_by_year (team_penalties_by_year)' name='federated.0ybiarh0aohyf01ead9vo15ig8ud' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0ybiarh0aohyf01ead9vo15ig8ud'>
+            <column-instance column='[total_yards]' derivation='Avg' name='[avg:total_yards:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[team_name]' derivation='None' name='[none:team_name:nk]' pivot='key' type='nominal' />
+            <column caption='Team Name' datatype='string' name='[team_name]' role='dimension' type='nominal' />
+            <column caption='Total Yards' datatype='integer' name='[total_yards]' role='measure' type='quantitative' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+          </pane>
+        </panes>
+        <rows>[federated.0ybiarh0aohyf01ead9vo15ig8ud].[avg:total_yards:qk]</rows>
+        <cols>[federated.0ybiarh0aohyf01ead9vo15ig8ud].[none:team_name:nk]</cols>
+      </table>
+      <simple-id uuid='{A78B37FF-FA47-4CAD-9D0E-F9CBD8EC4652}' />
+    </worksheet>
+    <worksheet name='AVG season penalties'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='team_penalties_by_year (team_penalties_by_year)' name='federated.0ybiarh0aohyf01ead9vo15ig8ud' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0ybiarh0aohyf01ead9vo15ig8ud'>
+            <column-instance column='[total_penalties]' derivation='Avg' name='[avg:total_penalties:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[team_name]' derivation='None' name='[none:team_name:nk]' pivot='key' type='nominal' />
+            <column caption='Team Name' datatype='string' name='[team_name]' role='dimension' type='nominal' />
+            <column caption='Total Penalties' datatype='integer' name='[total_penalties]' role='measure' type='quantitative' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+          </pane>
+        </panes>
+        <rows>[federated.0ybiarh0aohyf01ead9vo15ig8ud].[avg:total_penalties:qk]</rows>
+        <cols>[federated.0ybiarh0aohyf01ead9vo15ig8ud].[none:team_name:nk]</cols>
+      </table>
+      <simple-id uuid='{C430A3E2-3C80-4A1B-94D8-592CA544EDD1}' />
+    </worksheet>
+    <worksheet name='Team penalties over years'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='team_penalties_by_year (team_penalties_by_year)' name='federated.0ybiarh0aohyf01ead9vo15ig8ud' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0ybiarh0aohyf01ead9vo15ig8ud'>
+            <column-instance column='[team_name]' derivation='None' name='[none:team_name:nk]' pivot='key' type='nominal' />
+            <column-instance column='[year]' derivation='None' name='[none:year:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[total_penalties]' derivation='Sum' name='[sum:total_penalties:qk]' pivot='key' type='quantitative' />
+            <column caption='Team Name' datatype='string' name='[team_name]' role='dimension' type='nominal' />
+            <column caption='Total Penalties' datatype='integer' name='[total_penalties]' role='measure' type='quantitative' />
+            <column caption='Year' datatype='integer' name='[year]' role='dimension' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.0ybiarh0aohyf01ead9vo15ig8ud].[Exclusions (Team Name,Year)]'>
+            <groupfilter function='except' user:ui-domain='database' user:ui-enumeration='exclusive' user:ui-marker='enumerate'>
+              <groupfilter function='crossjoin'>
+                <groupfilter function='level-members' level='[none:team_name:nk]' />
+                <groupfilter function='level-members' level='[none:year:qk]' />
+              </groupfilter>
+              <groupfilter function='reorder-dimensionality'>
+                <groupfilter function='crossjoin'>
+                  <groupfilter function='member' level='[none:year:qk]' member='2020' />
+                  <groupfilter function='union'>
+                    <groupfilter function='member' level='[none:team_name:nk]' member='&quot;Arizona Cardinals&quot;' />
+                    <groupfilter function='member' level='[none:team_name:nk]' member='&quot;Atlanta Falcons&quot;' />
+                    <groupfilter function='member' level='[none:team_name:nk]' member='&quot;Baltimore Ravens&quot;' />
+                    <groupfilter function='member' level='[none:team_name:nk]' member='&quot;Buffalo Bills&quot;' />
+                    <groupfilter function='member' level='[none:team_name:nk]' member='&quot;Carolina Panthers&quot;' />
+                    <groupfilter function='member' level='[none:team_name:nk]' member='&quot;Chicago Bears&quot;' />
+                    <groupfilter function='member' level='[none:team_name:nk]' member='&quot;Cincinnati Bengals&quot;' />
+                    <groupfilter function='member' level='[none:team_name:nk]' member='&quot;Cleveland Browns&quot;' />
+                    <groupfilter function='member' level='[none:team_name:nk]' member='&quot;Dallas Cowboys&quot;' />
+                    <groupfilter function='member' level='[none:team_name:nk]' member='&quot;Denver Broncos&quot;' />
+                    <groupfilter function='member' level='[none:team_name:nk]' member='&quot;Detroit Lions&quot;' />
+                    <groupfilter function='member' level='[none:team_name:nk]' member='&quot;Green Bay Packers&quot;' />
+                    <groupfilter function='member' level='[none:team_name:nk]' member='&quot;Houston Texans&quot;' />
+                    <groupfilter function='member' level='[none:team_name:nk]' member='&quot;Indianapolis Colts&quot;' />
+                    <groupfilter function='member' level='[none:team_name:nk]' member='&quot;Jacksonville Jaguars&quot;' />
+                    <groupfilter function='member' level='[none:team_name:nk]' member='&quot;Kansas City Chiefs&quot;' />
+                    <groupfilter function='member' level='[none:team_name:nk]' member='&quot;Las Vegas Raiders&quot;' />
+                    <groupfilter function='member' level='[none:team_name:nk]' member='&quot;Los Angeles Chargers&quot;' />
+                    <groupfilter function='member' level='[none:team_name:nk]' member='&quot;Los Angeles Rams&quot;' />
+                    <groupfilter function='member' level='[none:team_name:nk]' member='&quot;Miami Dolphins&quot;' />
+                    <groupfilter function='member' level='[none:team_name:nk]' member='&quot;Minnesota Vikings&quot;' />
+                    <groupfilter function='member' level='[none:team_name:nk]' member='&quot;New England Patriots&quot;' />
+                    <groupfilter function='member' level='[none:team_name:nk]' member='&quot;New Orleans Saints&quot;' />
+                    <groupfilter function='member' level='[none:team_name:nk]' member='&quot;New York Giants&quot;' />
+                    <groupfilter function='member' level='[none:team_name:nk]' member='&quot;New York Jets&quot;' />
+                    <groupfilter function='member' level='[none:team_name:nk]' member='&quot;Philadelphia Eagles&quot;' />
+                    <groupfilter function='member' level='[none:team_name:nk]' member='&quot;Pittsburgh Steelers&quot;' />
+                    <groupfilter function='member' level='[none:team_name:nk]' member='&quot;San Francisco 49ers&quot;' />
+                    <groupfilter function='member' level='[none:team_name:nk]' member='&quot;Seattle Seahawks&quot;' />
+                    <groupfilter function='member' level='[none:team_name:nk]' member='&quot;Tampa Bay Buccaneers&quot;' />
+                    <groupfilter function='member' level='[none:team_name:nk]' member='&quot;Tennessee Titans&quot;' />
+                    <groupfilter function='member' level='[none:team_name:nk]' member='&quot;Washington Football Team&quot;' />
+                  </groupfilter>
+                </groupfilter>
+                <order>
+                  <hierarchy name='[none:team_name:nk]' />
+                  <hierarchy name='[none:year:qk]' />
+                </order>
+              </groupfilter>
+            </groupfilter>
+          </filter>
+          <slices>
+            <column>[federated.0ybiarh0aohyf01ead9vo15ig8ud].[Exclusions (Team Name,Year)]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane id='1' selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='false' />
+                <format attr='mark-labels-mode' value='range' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>([federated.0ybiarh0aohyf01ead9vo15ig8ud].[none:team_name:nk] * [federated.0ybiarh0aohyf01ead9vo15ig8ud].[sum:total_penalties:qk])</rows>
+        <cols>[federated.0ybiarh0aohyf01ead9vo15ig8ud].[none:year:qk]</cols>
+      </table>
+      <simple-id uuid='{F62DFF85-22BC-4457-9A7B-A8CB67DC691D}' />
+    </worksheet>
+    <worksheet name='Team yards over years'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='team_penalties_by_year (team_penalties_by_year)' name='federated.0ybiarh0aohyf01ead9vo15ig8ud' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0ybiarh0aohyf01ead9vo15ig8ud'>
+            <column-instance column='[team_name]' derivation='None' name='[none:team_name:nk]' pivot='key' type='nominal' />
+            <column-instance column='[year]' derivation='None' name='[none:year:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[total_yards]' derivation='Sum' name='[sum:total_yards:qk]' pivot='key' type='quantitative' />
+            <column caption='Team Name' datatype='string' name='[team_name]' role='dimension' type='nominal' />
+            <column caption='Total Yards' datatype='integer' name='[total_yards]' role='measure' type='quantitative' />
+            <column caption='Year' datatype='integer' name='[year]' role='dimension' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.0ybiarh0aohyf01ead9vo15ig8ud].[Exclusions (Team Name,Year)]'>
+            <groupfilter function='except' user:ui-domain='database' user:ui-enumeration='exclusive' user:ui-marker='enumerate'>
+              <groupfilter function='crossjoin'>
+                <groupfilter function='level-members' level='[none:team_name:nk]' />
+                <groupfilter function='level-members' level='[none:year:qk]' />
+              </groupfilter>
+              <groupfilter function='reorder-dimensionality'>
+                <groupfilter function='crossjoin'>
+                  <groupfilter function='member' level='[none:year:qk]' member='2020' />
+                  <groupfilter function='union'>
+                    <groupfilter function='member' level='[none:team_name:nk]' member='&quot;Arizona Cardinals&quot;' />
+                    <groupfilter function='member' level='[none:team_name:nk]' member='&quot;Atlanta Falcons&quot;' />
+                    <groupfilter function='member' level='[none:team_name:nk]' member='&quot;Baltimore Ravens&quot;' />
+                    <groupfilter function='member' level='[none:team_name:nk]' member='&quot;Buffalo Bills&quot;' />
+                    <groupfilter function='member' level='[none:team_name:nk]' member='&quot;Carolina Panthers&quot;' />
+                    <groupfilter function='member' level='[none:team_name:nk]' member='&quot;Chicago Bears&quot;' />
+                    <groupfilter function='member' level='[none:team_name:nk]' member='&quot;Cincinnati Bengals&quot;' />
+                    <groupfilter function='member' level='[none:team_name:nk]' member='&quot;Cleveland Browns&quot;' />
+                    <groupfilter function='member' level='[none:team_name:nk]' member='&quot;Dallas Cowboys&quot;' />
+                    <groupfilter function='member' level='[none:team_name:nk]' member='&quot;Denver Broncos&quot;' />
+                    <groupfilter function='member' level='[none:team_name:nk]' member='&quot;Detroit Lions&quot;' />
+                    <groupfilter function='member' level='[none:team_name:nk]' member='&quot;Green Bay Packers&quot;' />
+                    <groupfilter function='member' level='[none:team_name:nk]' member='&quot;Houston Texans&quot;' />
+                    <groupfilter function='member' level='[none:team_name:nk]' member='&quot;Indianapolis Colts&quot;' />
+                    <groupfilter function='member' level='[none:team_name:nk]' member='&quot;Jacksonville Jaguars&quot;' />
+                    <groupfilter function='member' level='[none:team_name:nk]' member='&quot;Kansas City Chiefs&quot;' />
+                    <groupfilter function='member' level='[none:team_name:nk]' member='&quot;Las Vegas Raiders&quot;' />
+                    <groupfilter function='member' level='[none:team_name:nk]' member='&quot;Los Angeles Chargers&quot;' />
+                    <groupfilter function='member' level='[none:team_name:nk]' member='&quot;Los Angeles Rams&quot;' />
+                    <groupfilter function='member' level='[none:team_name:nk]' member='&quot;Miami Dolphins&quot;' />
+                    <groupfilter function='member' level='[none:team_name:nk]' member='&quot;Minnesota Vikings&quot;' />
+                    <groupfilter function='member' level='[none:team_name:nk]' member='&quot;New England Patriots&quot;' />
+                    <groupfilter function='member' level='[none:team_name:nk]' member='&quot;New Orleans Saints&quot;' />
+                    <groupfilter function='member' level='[none:team_name:nk]' member='&quot;New York Giants&quot;' />
+                    <groupfilter function='member' level='[none:team_name:nk]' member='&quot;New York Jets&quot;' />
+                    <groupfilter function='member' level='[none:team_name:nk]' member='&quot;Philadelphia Eagles&quot;' />
+                    <groupfilter function='member' level='[none:team_name:nk]' member='&quot;Pittsburgh Steelers&quot;' />
+                    <groupfilter function='member' level='[none:team_name:nk]' member='&quot;San Francisco 49ers&quot;' />
+                    <groupfilter function='member' level='[none:team_name:nk]' member='&quot;Seattle Seahawks&quot;' />
+                    <groupfilter function='member' level='[none:team_name:nk]' member='&quot;Tampa Bay Buccaneers&quot;' />
+                    <groupfilter function='member' level='[none:team_name:nk]' member='&quot;Tennessee Titans&quot;' />
+                    <groupfilter function='member' level='[none:team_name:nk]' member='&quot;Washington Football Team&quot;' />
+                  </groupfilter>
+                </groupfilter>
+                <order>
+                  <hierarchy name='[none:team_name:nk]' />
+                  <hierarchy name='[none:year:qk]' />
+                </order>
+              </groupfilter>
+            </groupfilter>
+          </filter>
+          <slices>
+            <column>[federated.0ybiarh0aohyf01ead9vo15ig8ud].[Exclusions (Team Name,Year)]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-cull' value='false' />
+                <format attr='mark-labels-mode' value='range' />
+                <format attr='mark-labels-show' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>([federated.0ybiarh0aohyf01ead9vo15ig8ud].[none:team_name:nk] * [federated.0ybiarh0aohyf01ead9vo15ig8ud].[sum:total_yards:qk])</rows>
+        <cols>[federated.0ybiarh0aohyf01ead9vo15ig8ud].[none:year:qk]</cols>
+      </table>
+      <simple-id uuid='{74FDE929-5BE3-4EFD-A659-380F3F710F1E}' />
+    </worksheet>
+    <worksheet name='Total Team Penalties'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='team_penalties_by_year (team_penalties_by_year)' name='federated.0ybiarh0aohyf01ead9vo15ig8ud' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0ybiarh0aohyf01ead9vo15ig8ud'>
+            <column-instance column='[team_name]' derivation='None' name='[none:team_name:nk]' pivot='key' type='nominal' />
+            <column-instance column='[total_penalties]' derivation='Sum' name='[sum:total_penalties:qk]' pivot='key' type='quantitative' />
+            <column caption='Team Name' datatype='string' name='[team_name]' role='dimension' type='nominal' />
+            <column caption='Total Penalties' datatype='integer' name='[total_penalties]' role='measure' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.0ybiarh0aohyf01ead9vo15ig8ud].[none:team_name:nk]'>
+            <groupfilter function='except' user:ui-domain='relevant' user:ui-enumeration='exclusive' user:ui-marker='enumerate'>
+              <groupfilter function='level-members' level='[none:team_name:nk]' />
+              <groupfilter function='member' level='[none:team_name:nk]' member='&quot;Las Vegas Raiders&quot;' />
+            </groupfilter>
+          </filter>
+          <slices>
+            <column>[federated.0ybiarh0aohyf01ead9vo15ig8ud].[none:team_name:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-mode' value='range' />
+                <format attr='mark-labels-show' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0ybiarh0aohyf01ead9vo15ig8ud].[sum:total_penalties:qk]</rows>
+        <cols>[federated.0ybiarh0aohyf01ead9vo15ig8ud].[none:team_name:nk]</cols>
+      </table>
+      <simple-id uuid='{D32D9907-F64C-4D08-8303-1FD4D2A16F2C}' />
+    </worksheet>
+    <worksheet name='Total Team Yards'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='team_penalties_by_year (team_penalties_by_year)' name='federated.0ybiarh0aohyf01ead9vo15ig8ud' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0ybiarh0aohyf01ead9vo15ig8ud'>
+            <column-instance column='[team_name]' derivation='None' name='[none:team_name:nk]' pivot='key' type='nominal' />
+            <column-instance column='[total_yards]' derivation='Sum' name='[sum:total_yards:qk]' pivot='key' type='quantitative' />
+            <column caption='Team Name' datatype='string' name='[team_name]' role='dimension' type='nominal' />
+            <column caption='Total Yards' datatype='integer' name='[total_yards]' role='measure' type='quantitative' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+          </pane>
+        </panes>
+        <rows>[federated.0ybiarh0aohyf01ead9vo15ig8ud].[sum:total_yards:qk]</rows>
+        <cols>[federated.0ybiarh0aohyf01ead9vo15ig8ud].[none:team_name:nk]</cols>
+      </table>
+      <simple-id uuid='{7D4E8E09-36A6-4BCD-9D0B-371E10DF78CD}' />
+    </worksheet>
+  </worksheets>
+  <windows source-height='30'>
+    <window class='worksheet' maximized='true' name='Team yards over years'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{4AF86AB1-5D4A-4D93-9637-337E70147565}' />
+    </window>
+    <window class='worksheet' name='Team penalties over years'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{E013ECC0-5059-4835-BA92-C3974DF2E4C8}' />
+    </window>
+    <window class='worksheet' name='Total Team Penalties'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{DC697A0B-678D-405C-BA4E-AA250912217B}' />
+    </window>
+    <window class='worksheet' name='Total Team Yards'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{6A83FC12-0B30-486C-A72C-4DA77D852199}' />
+    </window>
+    <window class='worksheet' name='AVG season penalties'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{7ADDA00F-CA87-44C7-9DFC-9B5511D906A5}' />
+    </window>
+    <window class='worksheet' name='AVG Season Yards'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{5BEE416E-CE20-4C16-8713-018302BC7751}' />
+    </window>
+  </windows>
+</workbook>

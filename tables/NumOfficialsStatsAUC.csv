@@ -1,0 +1,15 @@
+Predictor,AUC
+home_bias,1
+home_wp,0.985357408
+home_penalties,0.565587326
+home,0.534266964
+league_home_wp,0.53263515
+league_home_penalties,0.524036457
+visitor,0.518963126
+league_avg_penalties,0.518865684
+league_avg_yards,0.513321912
+avg_penalties,0.513021655
+harsh,0.506341437
+total_penalties,0.505938979
+penalty_yards,0.505357272
+avg_yards,0.503345661

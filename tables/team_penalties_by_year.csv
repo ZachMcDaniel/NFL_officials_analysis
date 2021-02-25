@@ -1,0 +1,702 @@
+team_name,year,total_home_penalties,home_yards,total_away_penalties,away_yards,total_penalties,total_yards
+Arizona Cardinals,1999,32,210,35,251,67,461
+Arizona Cardinals,2000,46,360,53,445,99,805
+Arizona Cardinals,2001,38,327,33,288,71,615
+Arizona Cardinals,2002,34,277,43,345,77,622
+Arizona Cardinals,2003,44,359,54,402,98,761
+Arizona Cardinals,2004,44,347,70,531,114,878
+Arizona Cardinals,2005,76,636,67,520,143,1156
+Arizona Cardinals,2006,56,450,73,585,129,1035
+Arizona Cardinals,2007,65,521,72,607,137,1128
+Arizona Cardinals,2008,57,425,50,356,107,781
+Arizona Cardinals,2009,58,455,68,588,126,1043
+Arizona Cardinals,2010,64,538,55,443,119,981
+Arizona Cardinals,2011,44,397,61,574,105,971
+Arizona Cardinals,2012,61,534,50,399,111,933
+Arizona Cardinals,2013,44,318,52,426,96,744
+Arizona Cardinals,2014,50,377,41,330,91,707
+Arizona Cardinals,2015,37,303,58,450,95,753
+Arizona Cardinals,2016,54,424,63,534,117,958
+Arizona Cardinals,2017,57,447,57,484,114,931
+Arizona Cardinals,2018,58,454,43,332,101,786
+Arizona Cardinals,2019,52,369,69,587,121,956
+Arizona Cardinals,2020,18,135,14,131,32,266
+Atlanta Falcons,1999,49,461,55,467,104,928
+Atlanta Falcons,2000,45,372,58,388,103,760
+Atlanta Falcons,2001,42,342,42,377,84,719
+Atlanta Falcons,2002,58,468,53,498,111,966
+Atlanta Falcons,2003,46,382,56,523,102,905
+Atlanta Falcons,2004,48,398,53,454,101,852
+Atlanta Falcons,2005,59,518,65,564,124,1082
+Atlanta Falcons,2006,57,517,46,430,103,947
+Atlanta Falcons,2007,45,444,60,447,105,891
+Atlanta Falcons,2008,33,256,38,335,71,591
+Atlanta Falcons,2009,42,383,39,318,81,701
+Atlanta Falcons,2010,23,294,34,299,57,593
+Atlanta Falcons,2011,50,411,51,390,101,801
+Atlanta Falcons,2012,32,252,29,198,61,450
+Atlanta Falcons,2013,47,465,49,364,96,829
+Atlanta Falcons,2014,51,414,46,426,97,840
+Atlanta Falcons,2015,47,490,49,447,96,937
+Atlanta Falcons,2016,48,379,51,438,99,817
+Atlanta Falcons,2017,58,483,68,604,126,1087
+Atlanta Falcons,2018,43,381,66,642,109,1023
+Atlanta Falcons,2019,53,396,66,560,119,956
+Atlanta Falcons,2020,13,147,11,74,24,221
+Baltimore Ravens,1999,65,546,51,404,116,950
+Baltimore Ravens,2000,51,384,57,436,108,820
+Baltimore Ravens,2001,42,341,71,587,113,928
+Baltimore Ravens,2002,52,411,65,550,117,961
+Baltimore Ravens,2003,60,429,66,541,126,970
+Baltimore Ravens,2004,45,443,51,471,96,914
+Baltimore Ravens,2005,68,498,69,555,137,1053
+Baltimore Ravens,2006,53,420,64,522,117,942
+Baltimore Ravens,2007,57,465,56,447,113,912
+Baltimore Ravens,2008,55,407,49,384,104,791
+Baltimore Ravens,2009,54,495,77,714,131,1209
+Baltimore Ravens,2010,45,335,53,409,98,744
+Baltimore Ravens,2011,56,470,44,352,100,822
+Baltimore Ravens,2012,68,625,66,594,134,1219
+Baltimore Ravens,2013,64,527,72,621,136,1148
+Baltimore Ravens,2014,56,439,55,431,111,870
+Baltimore Ravens,2015,77,796,50,398,127,1194
+Baltimore Ravens,2016,63,559,62,549,125,1108
+Baltimore Ravens,2017,45,395,50,395,95,790
+Baltimore Ravens,2018,55,420,61,520,116,940
+Baltimore Ravens,2019,57,391,59,517,116,908
+Baltimore Ravens,2020,20,167,8,51,28,218
+Buffalo Bills,1999,45,333,49,431,94,764
+Buffalo Bills,2000,50,456,64,541,114,997
+Buffalo Bills,2001,48,416,70,502,118,918
+Buffalo Bills,2002,55,504,62,563,117,1067
+Buffalo Bills,2003,57,515,49,376,106,891
+Buffalo Bills,2004,62,513,47,426,109,939
+Buffalo Bills,2005,73,576,56,399,129,975
+Buffalo Bills,2006,54,396,36,263,90,659
+Buffalo Bills,2007,41,320,37,313,78,633
+Buffalo Bills,2008,32,237,39,301,71,538
+Buffalo Bills,2009,51,431,52,384,103,815
+Buffalo Bills,2010,41,309,42,349,83,658
+Buffalo Bills,2011,49,438,35,275,84,713
+Buffalo Bills,2012,46,391,63,525,109,916
+Buffalo Bills,2013,56,448,54,506,110,954
+Buffalo Bills,2014,59,493,65,538,124,1031
+Buffalo Bills,2015,75,679,64,525,139,1204
+Buffalo Bills,2016,61,488,55,517,116,1005
+Buffalo Bills,2017,45,377,53,495,98,872
+Buffalo Bills,2018,52,446,69,598,121,1044
+Buffalo Bills,2019,56,470,61,457,117,927
+Buffalo Bills,2020,12,134,18,200,30,334
+Carolina Panthers,1999,44,365,53,417,97,782
+Carolina Panthers,2000,42,353,51,405,93,758
+Carolina Panthers,2001,37,310,46,400,83,710
+Carolina Panthers,2002,53,469,45,353,98,822
+Carolina Panthers,2003,48,426,68,540,116,966
+Carolina Panthers,2004,59,517,88,658,147,1175
+Carolina Panthers,2005,54,449,37,273,91,722
+Carolina Panthers,2006,57,423,73,535,130,958
+Carolina Panthers,2007,46,367,49,434,95,801
+Carolina Panthers,2008,51,381,43,256,94,637
+Carolina Panthers,2009,45,333,46,376,91,709
+Carolina Panthers,2010,53,437,46,413,99,850
+Carolina Panthers,2011,65,575,57,530,122,1105
+Carolina Panthers,2012,50,395,49,445,99,840
+Carolina Panthers,2013,36,309,44,362,80,671
+Carolina Panthers,2014,42,429,49,400,91,829
+Carolina Panthers,2015,59,529,50,440,109,969
+Carolina Panthers,2016,66,475,55,520,121,995
+Carolina Panthers,2017,36,250,51,477,87,727
+Carolina Panthers,2018,46,397,48,439,94,836
+Carolina Panthers,2019,45,423,42,331,87,754
+Carolina Panthers,2020,15,137,12,107,27,244
+Chicago Bears,1999,56,452,59,453,115,905
+Chicago Bears,2000,46,375,46,331,92,706
+Chicago Bears,2001,29,281,31,327,60,608
+Chicago Bears,2002,58,500,41,383,99,883
+Chicago Bears,2003,47,389,45,417,92,806
+Chicago Bears,2004,49,409,71,518,120,927
+Chicago Bears,2005,55,461,46,373,101,834
+Chicago Bears,2006,54,475,70,512,124,987
+Chicago Bears,2007,53,419,68,500,121,919
+Chicago Bears,2008,29,223,49,387,78,610
+Chicago Bears,2009,54,479,41,322,95,801
+Chicago Bears,2010,49,440,41,317,90,757
+Chicago Bears,2011,63,524,60,462,123,986
+Chicago Bears,2012,52,422,54,409,106,831
+Chicago Bears,2013,44,393,41,315,85,708
+Chicago Bears,2014,48,423,65,574,113,997
+Chicago Bears,2015,46,471,52,423,98,894
+Chicago Bears,2016,50,417,55,516,105,933
+Chicago Bears,2017,48,404,73,588,121,992
+Chicago Bears,2018,39,319,58,477,97,796
+Chicago Bears,2019,52,438,54,452,106,890
+Chicago Bears,2020,13,151,16,128,29,279
+Cincinnati Bengals,1999,57,436,63,527,120,963
+Cincinnati Bengals,2000,48,409,57,533,105,942
+Cincinnati Bengals,2001,53,396,45,384,98,780
+Cincinnati Bengals,2002,44,329,60,645,104,974
+Cincinnati Bengals,2003,51,393,56,453,107,846
+Cincinnati Bengals,2004,49,371,50,404,99,775
+Cincinnati Bengals,2005,61,503,47,402,108,905
+Cincinnati Bengals,2006,55,457,50,400,105,857
+Cincinnati Bengals,2007,47,354,43,316,90,670
+Cincinnati Bengals,2008,37,318,38,273,75,591
+Cincinnati Bengals,2009,46,348,61,471,107,819
+Cincinnati Bengals,2010,57,449,42,326,99,775
+Cincinnati Bengals,2011,38,310,61,578,99,888
+Cincinnati Bengals,2012,45,413,61,504,106,917
+Cincinnati Bengals,2013,56,486,51,565,107,1051
+Cincinnati Bengals,2014,64,496,42,354,106,850
+Cincinnati Bengals,2015,45,361,61,529,106,890
+Cincinnati Bengals,2016,59,509,46,348,105,857
+Cincinnati Bengals,2017,58,580,54,467,112,1047
+Cincinnati Bengals,2018,63,522,51,435,114,957
+Cincinnati Bengals,2019,38,314,55,447,93,761
+Cincinnati Bengals,2020,14,117,13,118,27,235
+Cleveland Browns,1999,42,301,50,413,92,714
+Cleveland Browns,2000,45,383,58,542,103,925
+Cleveland Browns,2001,50,405,38,350,88,755
+Cleveland Browns,2002,53,443,60,472,113,915
+Cleveland Browns,2003,54,448,53,394,107,842
+Cleveland Browns,2004,54,436,55,372,109,808
+Cleveland Browns,2005,45,381,51,371,96,752
+Cleveland Browns,2006,40,348,43,403,83,751
+Cleveland Browns,2007,47,379,67,489,114,868
+Cleveland Browns,2008,58,362,42,307,100,669
+Cleveland Browns,2009,40,351,34,312,74,663
+Cleveland Browns,2010,41,341,34,303,75,644
+Cleveland Browns,2011,55,458,41,395,96,853
+Cleveland Browns,2012,49,408,69,637,118,1045
+Cleveland Browns,2013,55,495,49,425,104,920
+Cleveland Browns,2014,59,478,57,454,116,932
+Cleveland Browns,2015,40,325,72,711,112,1036
+Cleveland Browns,2016,51,349,47,397,98,746
+Cleveland Browns,2017,43,384,72,577,115,961
+Cleveland Browns,2018,56,414,56,480,112,894
+Cleveland Browns,2019,67,678,55,428,122,1106
+Cleveland Browns,2020,14,126,13,120,27,246
+Dallas Cowboys,1999,67,644,62,496,129,1140
+Dallas Cowboys,2000,64,550,58,529,122,1079
+Dallas Cowboys,2001,41,305,41,340,82,645
+Dallas Cowboys,2002,48,405,66,668,114,1073
+Dallas Cowboys,2003,47,427,51,410,98,837
+Dallas Cowboys,2004,56,428,45,357,101,785
+Dallas Cowboys,2005,35,277,60,477,95,754
+Dallas Cowboys,2006,50,416,60,601,110,1017
+Dallas Cowboys,2007,50,365,62,524,112,889
+Dallas Cowboys,2008,69,591,62,450,131,1041
+Dallas Cowboys,2009,44,374,60,438,104,812
+Dallas Cowboys,2010,75,605,55,415,130,1020
+Dallas Cowboys,2011,61,441,52,377,113,818
+Dallas Cowboys,2012,53,415,71,481,124,896
+Dallas Cowboys,2013,46,442,56,425,102,867
+Dallas Cowboys,2014,50,401,55,438,105,839
+Dallas Cowboys,2015,45,354,74,565,119,919
+Dallas Cowboys,2016,56,476,48,412,104,888
+Dallas Cowboys,2017,46,450,62,574,108,1024
+Dallas Cowboys,2018,50,431,54,454,104,885
+Dallas Cowboys,2019,61,574,58,496,119,1070
+Dallas Cowboys,2020,13,140,17,109,30,249
+Denver Broncos,1999,51,389,57,438,108,827
+Denver Broncos,2000,50,447,51,423,101,870
+Denver Broncos,2001,43,340,50,562,93,902
+Denver Broncos,2002,50,366,56,526,106,892
+Denver Broncos,2003,52,467,55,455,107,922
+Denver Broncos,2004,34,291,62,619,96,910
+Denver Broncos,2005,46,361,58,444,104,805
+Denver Broncos,2006,39,276,36,246,75,522
+Denver Broncos,2007,40,281,50,329,90,610
+Denver Broncos,2008,41,381,36,358,77,739
+Denver Broncos,2009,45,374,44,377,89,751
+Denver Broncos,2010,37,409,61,544,98,953
+Denver Broncos,2011,48,418,52,421,100,839
+Denver Broncos,2012,61,486,55,453,116,939
+Denver Broncos,2013,61,486,66,601,127,1087
+Denver Broncos,2014,67,597,68,576,135,1173
+Denver Broncos,2015,49,354,62,682,111,1036
+Denver Broncos,2016,76,593,61,535,137,1128
+Denver Broncos,2017,44,381,74,547,118,928
+Denver Broncos,2018,55,431,70,554,125,985
+Denver Broncos,2019,52,404,58,508,110,912
+Denver Broncos,2020,9,86,12,124,21,210
+Detroit Lions,1999,53,428,53,520,106,948
+Detroit Lions,2000,58,435,64,543,122,978
+Detroit Lions,2001,58,561,57,515,115,1076
+Detroit Lions,2002,51,405,54,516,105,921
+Detroit Lions,2003,53,420,54,439,107,859
+Detroit Lions,2004,50,365,65,583,115,948
+Detroit Lions,2005,49,359,67,484,116,843
+Detroit Lions,2006,58,455,63,531,121,986
+Detroit Lions,2007,47,312,53,363,100,675
+Detroit Lions,2008,49,353,39,376,88,729
+Detroit Lions,2009,46,350,46,383,92,733
+Detroit Lions,2010,64,474,73,546,137,1020
+Detroit Lions,2011,69,522,53,485,122,1007
+Detroit Lions,2012,41,390,80,719,121,1109
+Detroit Lions,2013,51,442,59,483,110,925
+Detroit Lions,2014,60,551,58,438,118,989
+Detroit Lions,2015,60,551,48,402,108,953
+Detroit Lions,2016,46,351,53,501,99,852
+Detroit Lions,2017,59,550,57,516,116,1066
+Detroit Lions,2018,42,356,52,496,94,852
+Detroit Lions,2019,57,495,56,442,113,937
+Detroit Lions,2020,13,126,14,116,27,242
+Green Bay Packers,1999,55,486,42,302,97,788
+Green Bay Packers,2000,54,395,37,310,91,705
+Green Bay Packers,2001,34,275,43,343,77,618
+Green Bay Packers,2002,53,425,64,548,117,973
+Green Bay Packers,2003,42,319,49,395,91,714
+Green Bay Packers,2004,59,482,63,508,122,990
+Green Bay Packers,2005,55,396,70,562,125,958
+Green Bay Packers,2006,51,397,46,342,97,739
+Green Bay Packers,2007,48,420,65,586,113,1006
+Green Bay Packers,2008,76,666,46,402,122,1068
+Green Bay Packers,2009,70,685,44,353,114,1038
+Green Bay Packers,2010,28,236,58,446,86,682
+Green Bay Packers,2011,27,198,68,532,95,730
+Green Bay Packers,2012,54,448,58,573,112,1021
+Green Bay Packers,2013,49,400,44,437,93,837
+Green Bay Packers,2014,39,317,56,478,95,795
+Green Bay Packers,2015,57,490,56,494,113,984
+Green Bay Packers,2016,47,361,61,523,108,884
+Green Bay Packers,2017,49,431,68,538,117,969
+Green Bay Packers,2018,50,403,58,534,108,937
+Green Bay Packers,2019,46,334,54,440,100,774
+Green Bay Packers,2020,15,120,14,119,29,239
+Houston Texans,2002,68,501,68,510,136,1011
+Houston Texans,2003,53,435,68,526,121,961
+Houston Texans,2004,41,362,58,514,99,876
+Houston Texans,2005,50,379,55,453,105,832
+Houston Texans,2006,35,269,63,566,98,835
+Houston Texans,2007,32,256,50,380,82,636
+Houston Texans,2008,47,409,33,255,80,664
+Houston Texans,2009,40,415,50,383,90,798
+Houston Texans,2010,48,387,42,290,90,677
+Houston Texans,2011,44,362,53,483,97,845
+Houston Texans,2012,56,500,67,535,123,1035
+Houston Texans,2013,47,516,75,697,122,1213
+Houston Texans,2014,49,434,45,400,94,834
+Houston Texans,2015,45,437,53,418,98,855
+Houston Texans,2016,61,518,33,399,94,917
+Houston Texans,2017,58,559,84,666,142,1225
+Houston Texans,2018,43,362,62,425,105,787
+Houston Texans,2019,64,519,55,440,119,959
+Houston Texans,2020,10,57,16,173,26,230
+Indianapolis Colts,1999,41,330,38,330,79,660
+Indianapolis Colts,2000,60,546,39,413,99,959
+Indianapolis Colts,2001,38,328,35,382,73,710
+Indianapolis Colts,2002,57,448,37,302,94,750
+Indianapolis Colts,2003,40,270,54,402,94,672
+Indianapolis Colts,2004,69,528,43,313,112,841
+Indianapolis Colts,2005,47,356,52,378,99,734
+Indianapolis Colts,2006,55,448,47,387,102,835
+Indianapolis Colts,2007,41,311,42,335,83,646
+Indianapolis Colts,2008,46,332,45,341,91,673
+Indianapolis Colts,2009,34,238,46,367,80,605
+Indianapolis Colts,2010,40,355,47,419,87,774
+Indianapolis Colts,2011,40,264,39,280,79,544
+Indianapolis Colts,2012,60,502,38,339,98,841
+Indianapolis Colts,2013,30,247,41,366,71,613
+Indianapolis Colts,2014,60,537,53,372,113,909
+Indianapolis Colts,2015,60,509,64,507,124,1016
+Indianapolis Colts,2016,55,434,50,485,105,919
+Indianapolis Colts,2017,61,529,35,285,96,814
+Indianapolis Colts,2018,54,452,66,501,120,953
+Indianapolis Colts,2019,37,307,54,443,91,750
+Indianapolis Colts,2020,13,133,13,156,26,289
+Jacksonville Jaguars,1999,42,389,40,317,82,706
+Jacksonville Jaguars,2000,74,581,45,322,119,903
+Jacksonville Jaguars,2001,51,394,43,302,94,696
+Jacksonville Jaguars,2002,38,283,54,416,92,699
+Jacksonville Jaguars,2003,54,515,54,380,108,895
+Jacksonville Jaguars,2004,49,425,53,428,102,853
+Jacksonville Jaguars,2005,59,484,62,559,121,1043
+Jacksonville Jaguars,2006,60,480,52,420,112,900
+Jacksonville Jaguars,2007,38,313,38,281,76,594
+Jacksonville Jaguars,2008,51,451,64,449,115,900
+Jacksonville Jaguars,2009,36,253,31,269,67,522
+Jacksonville Jaguars,2010,46,404,38,276,84,680
+Jacksonville Jaguars,2011,30,295,48,390,78,685
+Jacksonville Jaguars,2012,48,453,54,512,102,965
+Jacksonville Jaguars,2013,50,408,46,389,96,797
+Jacksonville Jaguars,2014,33,244,40,329,73,573
+Jacksonville Jaguars,2015,53,473,45,354,98,827
+Jacksonville Jaguars,2016,68,693,60,493,128,1186
+Jacksonville Jaguars,2017,59,522,61,468,120,990
+Jacksonville Jaguars,2018,63,569,72,715,135,1284
+Jacksonville Jaguars,2019,58,469,74,696,132,1165
+Jacksonville Jaguars,2020,14,124,14,109,28,233
+Kansas City Chiefs,1999,46,353,75,596,121,949
+Kansas City Chiefs,2000,59,423,64,458,123,881
+Kansas City Chiefs,2001,27,196,39,391,66,587
+Kansas City Chiefs,2002,36,308,41,407,77,715
+Kansas City Chiefs,2003,42,401,37,297,79,698
+Kansas City Chiefs,2004,56,482,60,466,116,948
+Kansas City Chiefs,2005,43,305,68,550,111,855
+Kansas City Chiefs,2006,48,352,37,305,85,657
+Kansas City Chiefs,2007,53,369,50,341,103,710
+Kansas City Chiefs,2008,49,392,29,253,78,645
+Kansas City Chiefs,2009,45,346,34,245,79,591
+Kansas City Chiefs,2010,42,384,48,424,90,808
+Kansas City Chiefs,2011,60,465,54,494,114,959
+Kansas City Chiefs,2012,47,365,51,404,98,769
+Kansas City Chiefs,2013,54,411,47,363,101,774
+Kansas City Chiefs,2014,43,302,47,394,90,696
+Kansas City Chiefs,2015,42,339,57,484,99,823
+Kansas City Chiefs,2016,55,473,65,503,120,976
+Kansas City Chiefs,2017,53,462,75,661,128,1123
+Kansas City Chiefs,2018,69,552,76,668,145,1220
+Kansas City Chiefs,2019,53,456,64,655,117,1111
+Kansas City Chiefs,2020,18,141,21,152,39,293
+Las Vegas Raiders,2020,10,79,9,80,19,159
+Los Angeles Chargers,2017,50,417,58,510,108,927
+Los Angeles Chargers,2018,57,464,56,503,113,967
+Los Angeles Chargers,2019,43,374,70,566,113,940
+Los Angeles Chargers,2020,14,100,13,95,27,195
+Los Angeles Rams,2016,57,490,60,540,117,1030
+Los Angeles Rams,2017,66,600,50,383,116,983
+Los Angeles Rams,2018,49,457,52,466,101,923
+Los Angeles Rams,2019,78,596,60,473,138,1069
+Los Angeles Rams,2020,6,39,7,54,13,93
+Miami Dolphins,1999,55,453,50,395,105,848
+Miami Dolphins,2000,60,516,83,702,143,1218
+Miami Dolphins,2001,41,350,67,563,108,913
+Miami Dolphins,2002,57,484,59,467,116,951
+Miami Dolphins,2003,48,407,55,506,103,913
+Miami Dolphins,2004,62,418,45,384,107,802
+Miami Dolphins,2005,64,569,64,459,128,1028
+Miami Dolphins,2006,36,335,63,531,99,866
+Miami Dolphins,2007,43,354,48,378,91,732
+Miami Dolphins,2008,41,353,40,316,81,669
+Miami Dolphins,2009,38,336,41,293,79,629
+Miami Dolphins,2010,43,415,27,196,70,611
+Miami Dolphins,2011,38,365,47,419,85,784
+Miami Dolphins,2012,48,386,39,373,87,759
+Miami Dolphins,2013,30,264,40,334,70,598
+Miami Dolphins,2014,40,295,41,340,81,635
+Miami Dolphins,2015,58,446,66,551,124,997
+Miami Dolphins,2016,73,700,53,462,126,1162
+Miami Dolphins,2017,91,824,61,467,152,1291
+Miami Dolphins,2018,57,562,51,416,108,978
+Miami Dolphins,2019,48,385,44,384,92,769
+Miami Dolphins,2020,6,40,10,86,16,126
+Minnesota Vikings,1999,49,377,58,533,107,910
+Minnesota Vikings,2000,64,488,66,572,130,1060
+Minnesota Vikings,2001,61,478,54,437,115,915
+Minnesota Vikings,2002,74,598,67,583,141,1181
+Minnesota Vikings,2003,56,410,71,619,127,1029
+Minnesota Vikings,2004,58,465,52,370,110,835
+Minnesota Vikings,2005,49,373,93,808,142,1181
+Minnesota Vikings,2006,63,464,67,484,130,948
+Minnesota Vikings,2007,46,354,40,308,86,662
+Minnesota Vikings,2008,37,344,53,348,90,692
+Minnesota Vikings,2009,55,363,42,374,97,737
+Minnesota Vikings,2010,77,545,40,326,117,871
+Minnesota Vikings,2011,55,458,52,437,107,895
+Minnesota Vikings,2012,52,421,43,447,95,868
+Minnesota Vikings,2013,35,342,39,383,74,725
+Minnesota Vikings,2014,53,415,47,421,100,836
+Minnesota Vikings,2015,47,513,36,247,83,760
+Minnesota Vikings,2016,62,528,46,422,108,950
+Minnesota Vikings,2017,55,501,47,463,102,964
+Minnesota Vikings,2018,50,392,48,436,98,828
+Minnesota Vikings,2019,47,437,49,458,96,895
+Minnesota Vikings,2020,8,40,15,122,23,162
+New England Patriots,1999,41,329,51,424,92,753
+New England Patriots,2000,55,515,47,359,102,874
+New England Patriots,2001,51,461,35,271,86,732
+New England Patriots,2002,62,552,70,546,132,1098
+New England Patriots,2003,48,469,63,529,111,998
+New England Patriots,2004,57,452,53,422,110,874
+New England Patriots,2005,51,433,70,567,121,1000
+New England Patriots,2006,52,493,64,606,116,1099
+New England Patriots,2007,45,368,52,489,97,857
+New England Patriots,2008,38,352,32,277,70,629
+New England Patriots,2009,36,281,41,407,77,688
+New England Patriots,2010,39,308,48,482,87,790
+New England Patriots,2011,48,452,46,402,94,854
+New England Patriots,2012,58,581,51,389,109,970
+New England Patriots,2013,45,382,33,339,78,721
+New England Patriots,2014,68,576,58,554,126,1130
+New England Patriots,2015,55,475,52,485,107,960
+New England Patriots,2016,54,408,52,465,106,873
+New England Patriots,2017,56,536,57,446,113,982
+New England Patriots,2018,45,359,54,437,99,796
+New England Patriots,2019,51,417,61,567,112,984
+New England Patriots,2020,8,108,6,55,14,163
+New Orleans Saints,1999,56,441,48,382,104,823
+New Orleans Saints,2000,72,518,63,600,135,1118
+New Orleans Saints,2001,59,498,64,544,123,1042
+New Orleans Saints,2002,54,409,68,525,122,934
+New Orleans Saints,2003,49,411,54,467,103,878
+New Orleans Saints,2004,67,548,54,506,121,1054
+New Orleans Saints,2005,57,444,79,720,136,1164
+New Orleans Saints,2006,45,347,41,303,86,650
+New Orleans Saints,2007,35,301,43,362,78,663
+New Orleans Saints,2008,53,454,34,343,87,797
+New Orleans Saints,2009,44,361,41,391,85,752
+New Orleans Saints,2010,47,457,60,568,107,1025
+New Orleans Saints,2011,43,365,62,510,105,875
+New Orleans Saints,2012,59,562,54,427,113,989
+New Orleans Saints,2013,48,422,47,395,95,817
+New Orleans Saints,2014,37,297,58,527,95,824
+New Orleans Saints,2015,63,534,63,533,126,1067
+New Orleans Saints,2016,50,476,55,468,105,944
+New Orleans Saints,2017,54,476,57,561,111,1037
+New Orleans Saints,2018,51,564,57,568,108,1132
+New Orleans Saints,2019,73,602,61,538,134,1140
+New Orleans Saints,2020,20,254,14,196,34,450
+New York Giants,1999,50,514,43,348,93,862
+New York Giants,2000,53,487,43,396,96,883
+New York Giants,2001,46,403,59,519,105,922
+New York Giants,2002,59,513,60,506,119,1019
+New York Giants,2003,57,505,75,635,132,1140
+New York Giants,2004,51,412,64,540,115,952
+New York Giants,2005,65,539,81,601,146,1140
+New York Giants,2006,61,560,42,336,103,896
+New York Giants,2007,42,390,44,317,86,707
+New York Giants,2008,57,465,63,511,120,976
+New York Giants,2009,51,407,37,349,88,756
+New York Giants,2010,49,404,54,444,103,848
+New York Giants,2011,45,401,48,390,93,791
+New York Giants,2012,49,390,49,403,98,793
+New York Giants,2013,44,398,47,388,91,786
+New York Giants,2014,45,396,56,500,101,896
+New York Giants,2015,46,336,54,431,100,767
+New York Giants,2016,46,458,39,367,85,825
+New York Giants,2017,48,406,51,573,99,979
+New York Giants,2018,69,576,45,375,114,951
+New York Giants,2019,43,387,47,397,90,784
+New York Giants,2020,9,53,7,30,16,83
+New York Jets,1999,33,287,51,459,84,746
+New York Jets,2000,38,323,41,328,79,651
+New York Jets,2001,28,216,27,231,55,447
+New York Jets,2002,31,251,55,494,86,745
+New York Jets,2003,37,304,40,306,77,610
+New York Jets,2004,37,265,47,353,84,618
+New York Jets,2005,43,358,68,562,111,920
+New York Jets,2006,38,316,38,284,76,600
+New York Jets,2007,25,190,42,343,67,533
+New York Jets,2008,35,276,42,293,77,569
+New York Jets,2009,44,331,40,326,84,657
+New York Jets,2010,55,466,69,622,124,1088
+New York Jets,2011,47,407,64,527,111,934
+New York Jets,2012,41,339,48,409,89,748
+New York Jets,2013,62,476,46,361,108,837
+New York Jets,2014,53,460,56,472,109,932
+New York Jets,2015,35,248,55,498,90,746
+New York Jets,2016,37,409,60,454,97,863
+New York Jets,2017,61,506,60,544,121,1050
+New York Jets,2018,60,492,54,456,114,948
+New York Jets,2019,55,530,60,575,115,1105
+New York Jets,2020,16,183,16,152,32,335
+Oakland Raiders,1999,32,275,61,515,93,790
+Oakland Raiders,2000,63,550,60,425,123,975
+Oakland Raiders,2001,61,529,52,409,113,938
+Oakland Raiders,2002,67,630,76,595,143,1225
+Oakland Raiders,2003,77,669,86,699,163,1368
+Oakland Raiders,2004,55,461,71,480,126,941
+Oakland Raiders,2005,81,592,74,612,155,1204
+Oakland Raiders,2006,51,421,60,426,111,847
+Oakland Raiders,2007,49,348,71,516,120,864
+Oakland Raiders,2008,63,481,47,342,110,823
+Oakland Raiders,2009,45,359,67,531,112,890
+Oakland Raiders,2010,80,693,63,539,143,1232
+Oakland Raiders,2011,66,555,99,816,165,1371
+Oakland Raiders,2012,64,523,52,480,116,1003
+Oakland Raiders,2013,47,399,69,513,116,912
+Oakland Raiders,2014,58,472,58,467,116,939
+Oakland Raiders,2015,71,559,61,484,132,1043
+Oakland Raiders,2016,54,416,87,765,141,1181
+Oakland Raiders,2017,62,521,73,676,135,1197
+Oakland Raiders,2018,65,646,45,319,110,965
+Oakland Raiders,2019,60,489,68,649,128,1138
+Philadelphia Eagles,1999,41,399,53,441,94,840
+Philadelphia Eagles,2000,55,512,68,553,123,1065
+Philadelphia Eagles,2001,41,305,54,418,95,723
+Philadelphia Eagles,2002,62,506,75,620,137,1126
+Philadelphia Eagles,2003,55,529,49,363,104,892
+Philadelphia Eagles,2004,52,438,72,523,124,961
+Philadelphia Eagles,2005,85,658,64,591,149,1249
+Philadelphia Eagles,2006,65,590,52,438,117,1028
+Philadelphia Eagles,2007,40,314,55,451,95,765
+Philadelphia Eagles,2008,36,317,38,311,74,628
+Philadelphia Eagles,2009,53,491,78,583,131,1074
+Philadelphia Eagles,2010,74,629,66,606,140,1235
+Philadelphia Eagles,2011,63,477,47,391,110,868
+Philadelphia Eagles,2012,59,480,47,408,106,888
+Philadelphia Eagles,2013,41,339,54,507,95,846
+Philadelphia Eagles,2014,52,505,67,528,119,1033
+Philadelphia Eagles,2015,51,384,50,424,101,808
+Philadelphia Eagles,2016,47,376,65,519,112,895
+Philadelphia Eagles,2017,62,528,58,495,120,1023
+Philadelphia Eagles,2018,70,601,44,365,114,966
+Philadelphia Eagles,2019,44,350,63,541,107,891
+Philadelphia Eagles,2020,23,168,6,45,29,213
+Pittsburgh Steelers,1999,55,473,56,372,111,845
+Pittsburgh Steelers,2000,54,488,35,279,89,767
+Pittsburgh Steelers,2001,32,269,47,426,79,695
+Pittsburgh Steelers,2002,55,425,50,404,105,829
+Pittsburgh Steelers,2003,61,600,60,481,121,1081
+Pittsburgh Steelers,2004,40,382,52,413,92,795
+Pittsburgh Steelers,2005,45,381,67,585,112,966
+Pittsburgh Steelers,2006,31,247,59,507,90,754
+Pittsburgh Steelers,2007,35,266,45,385,80,651
+Pittsburgh Steelers,2008,52,429,49,438,101,867
+Pittsburgh Steelers,2009,62,526,38,370,100,896
+Pittsburgh Steelers,2010,55,510,47,408,102,918
+Pittsburgh Steelers,2011,73,632,46,383,119,1015
+Pittsburgh Steelers,2012,46,468,56,568,102,1036
+Pittsburgh Steelers,2013,42,324,38,353,80,677
+Pittsburgh Steelers,2014,57,463,46,371,103,834
+Pittsburgh Steelers,2015,58,534,35,403,93,937
+Pittsburgh Steelers,2016,45,417,82,833,127,1250
+Pittsburgh Steelers,2017,58,502,65,570,123,1072
+Pittsburgh Steelers,2018,57,466,58,585,115,1051
+Pittsburgh Steelers,2019,63,533,48,360,111,893
+Pittsburgh Steelers,2020,12,103,3,21,15,124
+San Diego Chargers,1999,53,470,45,303,98,773
+San Diego Chargers,2000,62,582,65,504,127,1086
+San Diego Chargers,2001,48,374,49,403,97,777
+San Diego Chargers,2002,37,254,63,551,100,805
+San Diego Chargers,2003,61,484,65,532,126,1016
+San Diego Chargers,2004,43,341,58,484,101,825
+San Diego Chargers,2005,62,519,64,496,126,1015
+San Diego Chargers,2006,42,382,48,409,90,791
+San Diego Chargers,2007,49,396,51,429,100,825
+San Diego Chargers,2008,50,398,61,487,111,885
+San Diego Chargers,2009,42,345,45,352,87,697
+San Diego Chargers,2010,53,445,40,304,93,749
+San Diego Chargers,2011,42,356,44,361,86,717
+San Diego Chargers,2012,55,398,56,466,111,864
+San Diego Chargers,2013,43,326,52,439,95,765
+San Diego Chargers,2014,52,486,72,572,124,1058
+San Diego Chargers,2015,56,424,54,473,110,897
+San Diego Chargers,2016,41,314,63,461,104,775
+San Francisco 49ers,1999,44,432,60,495,104,927
+San Francisco 49ers,2000,62,544,88,709,150,1253
+San Francisco 49ers,2001,34,305,48,364,82,669
+San Francisco 49ers,2002,39,345,51,410,90,755
+San Francisco 49ers,2003,45,371,67,527,112,898
+San Francisco 49ers,2004,51,394,45,401,96,795
+San Francisco 49ers,2005,51,360,57,452,108,812
+San Francisco 49ers,2006,44,407,54,443,98,850
+San Francisco 49ers,2007,51,380,46,322,97,702
+San Francisco 49ers,2008,42,283,56,449,98,732
+San Francisco 49ers,2009,43,370,49,348,92,718
+San Francisco 49ers,2010,51,453,62,496,113,949
+San Francisco 49ers,2011,54,465,59,494,113,959
+San Francisco 49ers,2012,53,459,70,664,123,1123
+San Francisco 49ers,2013,64,529,56,459,120,988
+San Francisco 49ers,2014,64,489,66,563,130,1052
+San Francisco 49ers,2015,49,354,57,409,106,763
+San Francisco 49ers,2016,44,338,58,528,102,866
+San Francisco 49ers,2017,62,485,65,528,127,1013
+San Francisco 49ers,2018,58,479,54,503,112,982
+San Francisco 49ers,2019,47,474,58,465,105,939
+San Francisco 49ers,2020,23,188,11,104,34,292
+Seattle Seahawks,1999,48,442,45,397,93,839
+Seattle Seahawks,2000,41,367,55,415,96,782
+Seattle Seahawks,2001,33,290,29,259,62,549
+Seattle Seahawks,2002,53,416,51,406,104,822
+Seattle Seahawks,2003,39,359,52,418,91,777
+Seattle Seahawks,2004,38,301,42,378,80,679
+Seattle Seahawks,2005,62,516,37,338,99,854
+Seattle Seahawks,2006,57,459,58,442,115,901
+Seattle Seahawks,2007,27,188,39,271,66,459
+Seattle Seahawks,2008,45,363,41,296,86,659
+Seattle Seahawks,2009,31,279,59,521,90,800
+Seattle Seahawks,2010,51,394,48,466,99,860
+Seattle Seahawks,2011,80,601,67,520,147,1121
+Seattle Seahawks,2012,58,504,59,441,117,945
+Seattle Seahawks,2013,57,569,81,679,138,1248
+Seattle Seahawks,2014,75,642,79,589,154,1231
+Seattle Seahawks,2015,83,660,49,447,132,1107
+Seattle Seahawks,2016,58,435,70,656,128,1091
+Seattle Seahawks,2017,78,726,87,730,165,1456
+Seattle Seahawks,2018,51,405,60,554,111,959
+Seattle Seahawks,2019,39,330,75,588,114,918
+Seattle Seahawks,2020,14,98,23,207,37,305
+St. Louis Rams,1999,53,443,55,392,108,835
+St. Louis Rams,2000,84,670,66,564,150,1234
+St. Louis Rams,2001,52,391,54,446,106,837
+St. Louis Rams,2002,83,597,54,439,137,1036
+St. Louis Rams,2003,47,377,45,290,92,667
+St. Louis Rams,2004,63,472,59,478,122,950
+St. Louis Rams,2005,77,572,65,461,142,1033
+St. Louis Rams,2006,64,581,59,419,123,1000
+St. Louis Rams,2007,50,411,44,383,94,794
+St. Louis Rams,2008,48,363,49,355,97,718
+St. Louis Rams,2009,36,315,57,469,93,784
+St. Louis Rams,2010,60,485,43,396,103,881
+St. Louis Rams,2011,58,514,54,381,112,895
+St. Louis Rams,2012,65,481,71,547,136,1028
+St. Louis Rams,2013,52,445,71,564,123,1009
+St. Louis Rams,2014,57,528,66,611,123,1139
+St. Louis Rams,2015,57,539,54,413,111,952
+Tampa Bay Buccaneers,1999,27,207,45,346,72,553
+Tampa Bay Buccaneers,2000,48,391,49,443,97,834
+Tampa Bay Buccaneers,2001,28,289,48,373,76,662
+Tampa Bay Buccaneers,2002,50,407,58,420,108,827
+Tampa Bay Buccaneers,2003,74,634,61,627,135,1261
+Tampa Bay Buccaneers,2004,49,442,60,411,109,853
+Tampa Bay Buccaneers,2005,52,435,77,606,129,1041
+Tampa Bay Buccaneers,2006,51,425,49,444,100,869
+Tampa Bay Buccaneers,2007,40,310,41,304,81,614
+Tampa Bay Buccaneers,2008,48,462,51,397,99,859
+Tampa Bay Buccaneers,2009,31,207,57,438,88,645
+Tampa Bay Buccaneers,2010,63,542,35,292,98,834
+Tampa Bay Buccaneers,2011,65,512,63,529,128,1041
+Tampa Bay Buccaneers,2012,42,323,61,516,103,839
+Tampa Bay Buccaneers,2013,61,583,60,553,121,1136
+Tampa Bay Buccaneers,2014,50,366,68,573,118,939
+Tampa Bay Buccaneers,2015,63,538,75,592,138,1130
+Tampa Bay Buccaneers,2016,58,516,51,445,109,961
+Tampa Bay Buccaneers,2017,50,391,59,434,109,825
+Tampa Bay Buccaneers,2018,57,492,60,483,117,975
+Tampa Bay Buccaneers,2019,61,582,72,529,133,1111
+Tampa Bay Buccaneers,2020,13,127,18,174,31,301
+Tennessee Titans,1999,66,636,42,377,108,1013
+Tennessee Titans,2000,66,549,70,551,136,1100
+Tennessee Titans,2001,60,488,54,497,114,985
+Tennessee Titans,2002,63,497,60,489,123,986
+Tennessee Titans,2003,57,508,68,531,125,1039
+Tennessee Titans,2004,45,365,73,618,118,983
+Tennessee Titans,2005,64,550,50,362,114,912
+Tennessee Titans,2006,46,432,66,511,112,943
+Tennessee Titans,2007,52,391,49,382,101,773
+Tennessee Titans,2008,48,420,66,473,114,893
+Tennessee Titans,2009,64,535,37,299,101,834
+Tennessee Titans,2010,67,517,63,541,130,1058
+Tennessee Titans,2011,48,470,57,501,105,971
+Tennessee Titans,2012,54,429,58,465,112,894
+Tennessee Titans,2013,51,452,50,448,101,900
+Tennessee Titans,2014,42,352,69,609,111,961
+Tennessee Titans,2015,43,360,44,359,87,719
+Tennessee Titans,2016,42,388,67,634,109,1022
+Tennessee Titans,2017,43,415,49,420,92,835
+Tennessee Titans,2018,42,360,58,479,100,839
+Tennessee Titans,2019,50,470,49,462,99,932
+Tennessee Titans,2020,4,30,27,212,31,242
+Washington Football Team,2020,9,75,10,82,19,157
+Washington Redskins,1999,44,320,57,463,101,783
+Washington Redskins,2000,61,573,67,597,128,1170
+Washington Redskins,2001,44,328,57,480,101,808
+Washington Redskins,2002,63,493,56,495,119,988
+Washington Redskins,2003,66,617,58,421,124,1038
+Washington Redskins,2004,49,467,63,567,112,1034
+Washington Redskins,2005,48,409,56,469,104,878
+Washington Redskins,2006,52,420,72,659,124,1079
+Washington Redskins,2007,50,398,40,353,90,751
+Washington Redskins,2008,40,344,48,339,88,683
+Washington Redskins,2009,36,317,46,348,82,665
+Washington Redskins,2010,39,282,50,354,89,636
+Washington Redskins,2011,50,421,39,430,89,851
+Washington Redskins,2012,57,469,65,587,122,1056
+Washington Redskins,2013,55,403,47,414,102,817
+Washington Redskins,2014,58,500,62,630,120,1130
+Washington Redskins,2015,58,456,44,352,102,808
+Washington Redskins,2016,59,456,56,486,115,942
+Washington Redskins,2017,50,396,47,379,97,775
+Washington Redskins,2018,56,574,59,434,115,1008
+Washington Redskins,2019,58,464,48,371,106,835
