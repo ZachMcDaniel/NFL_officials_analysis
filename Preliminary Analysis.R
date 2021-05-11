@@ -78,7 +78,7 @@ officials_stats$tenure <- officials_stats$years - as.integer(officials_stats$sta
 officials_stats$avg_yard_per_penalty <- officials_stats$penalty_yards / officials_stats$total_penalties
 
 #harsh is if the ref calls higher yard penalties with an average penalty per yard >=10
-officials_stats$harsh <- ifelse( officials_stats$avg_yard_per_penalty >= 10, 1, 0)
+officials_stats$harsh <- ifelse( officials_stats$avg_yard_per_penalty >= 14, 1, 0)
 
 #Home Bias is penalizing away teams more than 50% of penalties called and home wp >= league home wp
 officials_stats$home_bias <- ifelse( officials_stats$home_penalties <= 50.00, 1, 0 & officials_stats$home_wp >= officials_stats$league_home_wp)
@@ -90,9 +90,23 @@ officials_stats$home_bias <- ifelse( officials_stats$home_penalties <= 50.00, 1,
 cor(officials_stats$tenure, officials_stats$avg_penalties)
 t.test(officials_stats$tenure[officials_stats$highpenalty == 0], officials_stats$tenure[officials_stats$highpenalty == 1])
 
+###############################################################################
+#included in final analysis
+###############################################################################
 #Tests on high penalty and avg yard per penalty
 cor(officials_stats$highpenalty, officials_stats$avg_yard_per_penalty)
 t.test(officials_stats$avg_yard_per_penalty[officials_stats$highpenalty == 0], officials_stats$avg_yard_per_penalty[officials_stats$highpenalty == 1])
+
+#home bias on high penalty
+t.test(officials_stats$home_bias[officials_stats$highpenalty == 0], officials_stats$home_bias[officials_stats$highpenalty == 1])
+#harsh on high penalty
+t.test(officials_stats$harsh[officials_stats$highpenalty == 0], officials_stats$harsh[officials_stats$highpenalty == 1])
+#tenure on high penalty
+t.test(officials_stats$tenure[officials_stats$highpenalty == 0], officials_stats$tenure[officials_stats$highpenalty == 1])
+#attendance
+t.test(officials_stats$attendance[officials_stats$highpenalty == 0], officials_stats$attendance[officials_stats$highpenalty == 1])
+################################################################################
+
 
 #Tests on harshness
 cor(officials_stats$home_bias, officials_stats$tenure)

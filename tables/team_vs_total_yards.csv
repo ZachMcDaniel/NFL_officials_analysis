@@ -1,0 +1,497 @@
+,diff,lwr,upr,p adj
+Las Vegas Raiders-Indianapolis Colts,268,85.47751696,450.522483,1.74E-05
+New York Jets-Las Vegas Raiders,-261.8571429,-444.3796259,-79.33465982,3.45E-05
+Las Vegas Raiders-Kansas City Chiefs,207.1904762,24.66799315,389.7129592,0.007382728
+Las Vegas Raiders-Carolina Panthers,201.4285714,18.90608839,383.9510545,0.011921281
+Las Vegas Raiders-Atlanta Falcons,198.6190476,16.09656458,381.1415307,0.014956239
+Las Vegas Raiders-Chicago Bears,194.0952381,11.57275506,376.6177211,0.021339484
+Las Vegas Raiders-Cleveland Browns,192.7142857,10.19180268,375.2367688,0.023726728
+Las Vegas Raiders-Jacksonville Jaguars,189.6666667,7.144183627,372.1891497,0.029858185
+Indianapolis Colts-Baltimore Ravens,-189.2857143,-371.8081973,-6.763231246,0.03071595
+New York Jets-Baltimore Ravens,-183.1428571,-365.6653402,-0.620374104,0.047874524
+Las Vegas Raiders-Arizona Cardinals,182.9047619,0.382278866,365.4272449,0.048680853
+Las Vegas Raiders-Cincinnati Bengals,177.6666667,-4.855816373,360.1891497,0.069614306
+Miami Dolphins-Las Vegas Raiders,-175.8571429,-358.3796259,6.665340182,0.078421052
+Los Angeles Chargers-Las Vegas Raiders,-175.8095238,-358.3320068,6.71295923,0.078664795
+Las Vegas Raiders-Green Bay Packers,173.1428571,-9.379625896,355.6653402,0.093351029
+Philadelphia Eagles-Indianapolis Colts,170.7619048,-11.76057828,353.2843878,0.108287187
+Los Angeles Rams-Indianapolis Colts,170.4285714,-12.09391161,352.9510545,0.11052346
+New Orleans Saints-Indianapolis Colts,167,-15.52248304,349.522483,0.135716352
+Philadelphia Eagles-New York Jets,164.6190476,-17.90343542,347.1415307,0.155678635
+New York Jets-Los Angeles Rams,-164.2857143,-346.8081973,18.23676875,0.158641592
+New York Jets-New Orleans Saints,-160.8571429,-343.3796259,21.66534018,0.191591985
+Tennessee Titans-Indianapolis Colts,160.6666667,-21.85581637,343.1891497,0.193556806
+Las Vegas Raiders-Buffalo Bills,158.3809524,-24.14153066,340.9034354,0.218252936
+Tennessee Titans-New York Jets,154.5238095,-27.99867352,337.0462926,0.264611641
+Indianapolis Colts-Detroit Lions,-151.8095238,-334.3320068,30.71295923,0.300684127
+New England Patriots-Las Vegas Raiders,-151.6190476,-334.1415307,30.90343542,0.303318679
+New York Giants-Las Vegas Raiders,-151.0952381,-333.6177211,31.42724494,0.310631517
+Las Vegas Raiders-Denver Broncos,148.3809524,-34.14153066,330.9034354,0.350060256
+Washington Football Team-Las Vegas Raiders,-148.1428571,-330.6653402,34.3796259,0.353636328
+Minnesota Vikings-Las Vegas Raiders,-147.8095238,-330.3320068,34.71295923,0.358673103
+San Francisco 49ers-Las Vegas Raiders,-147.6666667,-330.1891497,34.85581637,0.360842401
+Las Vegas Raiders-Houston Texans,153.6190476,-36.35637592,343.5944712,0.361972549
+Indianapolis Colts-Dallas Cowboys,-146.6666667,-329.1891497,35.85581637,0.376202141
+New York Jets-Detroit Lions,-145.6666667,-328.1891497,36.85581637,0.391854626
+Tampa Bay Buccaneers-Las Vegas Raiders,-144.6190476,-327.1415307,37.90343542,0.408545296
+Pittsburgh Steelers-Las Vegas Raiders,-143.6666667,-326.1891497,38.85581637,0.423958547
+New York Jets-Dallas Cowboys,-140.5238095,-323.0462926,41.99867352,0.476183052
+Seattle Seahawks-Indianapolis Colts,135.1904762,-47.33200685,317.7129592,0.567638951
+Seattle Seahawks-Las Vegas Raiders,-132.8095238,-315.3320068,49.71295923,0.60859239
+Seattle Seahawks-New York Jets,129.047619,-53.47486399,311.5701021,0.671977181
+Kansas City Chiefs-Baltimore Ravens,-128.4761905,-310.9986735,54.04629256,0.681369628
+Pittsburgh Steelers-Indianapolis Colts,124.3333333,-58.18914971,306.8558164,0.746709464
+Tampa Bay Buccaneers-Indianapolis Colts,123.3809524,-59.14153066,305.9034354,0.760907694
+Carolina Panthers-Baltimore Ravens,-122.7142857,-305.2367688,59.80819732,0.770634756
+Las Vegas Raiders-Dallas Cowboys,121.3333333,-61.18914971,303.8558164,0.790194284
+San Francisco 49ers-Indianapolis Colts,120.3333333,-62.18914971,302.8558164,0.803834539
+Minnesota Vikings-Indianapolis Colts,120.1904762,-62.33200685,302.7129592,0.805745818
+Baltimore Ravens-Atlanta Falcons,119.9047619,-62.61772113,302.4272449,0.80953982
+Washington Football Team-Indianapolis Colts,119.8571429,-62.66534018,302.3796259,0.810168429
+Indianapolis Colts-Denver Broncos,-119.6190476,-302.1415307,62.90343542,0.813295394
+Pittsburgh Steelers-New York Jets,118.1904762,-64.33200685,300.7129592,0.831483062
+Tampa Bay Buccaneers-New York Jets,117.2380952,-65.2843878,299.7605783,0.843046545
+New York Giants-Indianapolis Colts,116.9047619,-65.61772113,299.4272449,0.846985075
+New England Patriots-Indianapolis Colts,116.3809524,-66.14153066,298.9034354,0.853058838
+Las Vegas Raiders-Detroit Lions,116.1904762,-66.33200685,298.7129592,0.855232293
+Chicago Bears-Baltimore Ravens,-115.3809524,-297.9034354,67.14153066,0.864258389
+San Francisco 49ers-New York Jets,114.1904762,-68.33200685,296.7129592,0.876905456
+New York Jets-Minnesota Vikings,-114.047619,-296.5701021,68.47486399,0.878372632
+Cleveland Browns-Baltimore Ravens,-114,-296.522483,68.52248304,0.87885928
+Washington Football Team-New York Jets,113.7142857,-68.80819732,296.2367688,0.881753834
+New York Jets-Denver Broncos,-113.4761905,-295.9986735,69.04629256,0.884132764
+Jacksonville Jaguars-Baltimore Ravens,-110.952381,-293.474864,71.57010209,0.907494093
+New York Jets-New York Giants,-110.7619048,-293.2843878,71.76057828,0.909120144
+New York Jets-New England Patriots,-110.2380952,-292.7605783,72.2843878,0.913493464
+Philadelphia Eagles-Kansas City Chiefs,109.952381,-72.57010209,292.474864,0.915818381
+Indianapolis Colts-Houston Texans,-114.3809524,-304.3563759,75.59447116,0.916290898
+Indianapolis Colts-Buffalo Bills,-109.6190476,-292.1415307,72.90343542,0.918477072
+Los Angeles Rams-Kansas City Chiefs,109.6190476,-72.90343542,292.1415307,0.918477072
+Tennessee Titans-Las Vegas Raiders,-107.3333333,-289.8558164,75.18914971,0.935176418
+New Orleans Saints-Kansas City Chiefs,106.1904762,-76.33200685,288.7129592,0.942551502
+Baltimore Ravens-Arizona Cardinals,104.1904762,-78.33200685,286.7129592,0.953974847
+Philadelphia Eagles-Carolina Panthers,104.1904762,-78.33200685,286.7129592,0.953974847
+New York Jets-Houston Texans,-108.2380952,-298.2135188,81.7373283,0.955010579
+Los Angeles Rams-Carolina Panthers,103.8571429,-78.66534018,286.3796259,0.955702687
+New York Jets-Buffalo Bills,-103.4761905,-285.9986735,79.04629256,0.957618028
+Philadelphia Eagles-Atlanta Falcons,101.3809524,-81.14153066,283.9034354,0.967067151
+Los Angeles Rams-Atlanta Falcons,101.047619,-81.47486399,283.5701021,0.968408778
+New Orleans Saints-Las Vegas Raiders,-101,-283.522483,81.52248304,0.968596967
+New Orleans Saints-Carolina Panthers,100.4285714,-82.09391161,282.9510545,0.970788808
+Tennessee Titans-Kansas City Chiefs,99.85714286,-82.66534018,282.3796259,0.972860845
+Cincinnati Bengals-Baltimore Ravens,-98.95238095,-281.474864,83.57010209,0.975906311
+New Orleans Saints-Atlanta Falcons,97.61904762,-84.90343542,280.1415307,0.979899334
+Los Angeles Rams-Las Vegas Raiders,-97.57142857,-280.0939116,84.95105447,0.980031585
+Philadelphia Eagles-Las Vegas Raiders,-97.23809524,-279.7605783,85.2843878,0.980938162
+Miami Dolphins-Baltimore Ravens,-97.14285714,-279.6653402,85.3796259,0.981191078
+Los Angeles Chargers-Baltimore Ravens,-97.0952381,-279.6177211,85.42724494,0.981316531
+Philadelphia Eagles-Chicago Bears,96.85714286,-85.66534018,279.3796259,0.98193384
+Los Angeles Rams-Chicago Bears,96.52380952,-85.99867352,279.0462926,0.982770627
+Philadelphia Eagles-Cleveland Browns,95.47619048,-87.04629256,277.9986735,0.985200565
+Los Angeles Rams-Cleveland Browns,95.14285714,-87.3796259,277.6653402,0.98591293
+Indianapolis Colts-Green Bay Packers,-94.85714286,-277.3796259,87.66534018,0.986501217
+Green Bay Packers-Baltimore Ravens,-94.42857143,-276.9510545,88.09391161,0.987346155
+Tennessee Titans-Carolina Panthers,94.0952381,-88.42724494,276.6177211,0.98797315
+New Orleans Saints-Chicago Bears,93.0952381,-89.42724494,275.6177211,0.989703727
+Philadelphia Eagles-Jacksonville Jaguars,92.42857143,-90.09391161,274.9510545,0.990739541
+Los Angeles Chargers-Indianapolis Colts,92.19047619,-90.33200685,274.7129592,0.99108796
+Miami Dolphins-Indianapolis Colts,92.14285714,-90.3796259,274.6653402,0.991156327
+Los Angeles Rams-Jacksonville Jaguars,92.0952381,-90.42724494,274.6177211,0.991224259
+New Orleans Saints-Cleveland Browns,91.71428571,-90.80819732,274.2367688,0.991752326
+Tennessee Titans-Atlanta Falcons,91.28571429,-91.23676875,273.8081973,0.992314621
+Kansas City Chiefs-Detroit Lions,-91,-273.522483,91.52248304,0.992671474
+Indianapolis Colts-Cincinnati Bengals,-90.33333333,-272.8558164,92.18914971,0.99345073
+New York Jets-Green Bay Packers,-88.71428571,-271.2367688,93.80819732,0.995059225
+New Orleans Saints-Jacksonville Jaguars,88.66666667,-93.85581637,271.1891497,0.995100953
+Tennessee Titans-Chicago Bears,86.76190476,-95.76057828,269.2843878,0.99654263
+New York Jets-Los Angeles Chargers,-86.04761905,-268.5701021,96.47486399,0.996980636
+New York Jets-Miami Dolphins,-86,-268.522483,96.52248304,0.997008063
+Kansas City Chiefs-Dallas Cowboys,-85.85714286,-268.3796259,96.66534018,0.997089065
+Philadelphia Eagles-Arizona Cardinals,85.66666667,-96.85581637,268.1891497,0.997194134
+Tennessee Titans-Cleveland Browns,85.38095238,-97.14153066,267.9034354,0.997345622
+Los Angeles Rams-Arizona Cardinals,85.33333333,-97.18914971,267.8558164,0.997370174
+Detroit Lions-Carolina Panthers,85.23809524,-97.2843878,267.7605783,0.997418691
+Indianapolis Colts-Arizona Cardinals,-85.0952381,-267.6177211,97.42724494,0.99749002
+New York Jets-Cincinnati Bengals,-84.19047619,-266.7129592,98.33200685,0.997903536
+Detroit Lions-Atlanta Falcons,82.42857143,-100.0939116,264.9510545,0.998542441
+Tennessee Titans-Jacksonville Jaguars,82.33333333,-100.1891497,264.8558164,0.99857151
+New Orleans Saints-Arizona Cardinals,81.9047619,-100.6177211,264.4272449,0.998696149
+Philadelphia Eagles-Cincinnati Bengals,80.42857143,-102.0939116,262.9510545,0.99905571
+Dallas Cowboys-Carolina Panthers,80.0952381,-102.4272449,262.6177211,0.999123627
+Los Angeles Rams-Cincinnati Bengals,80.0952381,-102.4272449,262.6177211,0.999123627
+Buffalo Bills-Baltimore Ravens,-79.66666667,-262.1891497,102.8558164,0.999204605
+New York Jets-Arizona Cardinals,-78.95238095,-261.474864,103.5701021,0.999324969
+Las Vegas Raiders-Baltimore Ravens,78.71428571,-103.8081973,261.2367688,0.999361344
+Philadelphia Eagles-Miami Dolphins,78.61904762,-103.9034354,261.1415307,0.999375401
+Philadelphia Eagles-Los Angeles Chargers,78.57142857,-103.9510545,261.0939116,0.999382327
+Jacksonville Jaguars-Indianapolis Colts,78.33333333,-104.1891497,260.8558164,0.999415942
+Miami Dolphins-Los Angeles Rams,-78.28571429,-260.8081973,104.2367688,0.999422467
+Los Angeles Rams-Los Angeles Chargers,78.23809524,-104.2843878,260.7605783,0.999428927
+Detroit Lions-Chicago Bears,77.9047619,-104.6177211,260.4272449,0.999472382
+Dallas Cowboys-Atlanta Falcons,77.28571429,-105.2367688,259.8081973,0.999545358
+New Orleans Saints-Cincinnati Bengals,76.66666667,-105.8558164,259.1891497,0.999609209
+Detroit Lions-Cleveland Browns,76.52380952,-105.9986735,259.0462926,0.999622755
+Philadelphia Eagles-Green Bay Packers,75.9047619,-106.6177211,258.4272449,0.99967674
+Tennessee Titans-Arizona Cardinals,75.57142857,-106.9510545,258.0939116,0.999702848
+Los Angeles Rams-Green Bay Packers,75.57142857,-106.9510545,258.0939116,0.999702848
+Indianapolis Colts-Cleveland Browns,-75.28571429,-257.8081973,107.2367688,0.999723707
+New Orleans Saints-Miami Dolphins,74.85714286,-107.6653402,257.3796259,0.99975254
+New Orleans Saints-Los Angeles Chargers,74.80952381,-107.7129592,257.3320068,0.999755571
+Seattle Seahawks-Kansas City Chiefs,74.38095238,-108.1415307,256.9034354,0.999781385
+Indianapolis Colts-Chicago Bears,-73.9047619,-256.4272449,108.6177211,0.999807172
+Jacksonville Jaguars-Detroit Lions,-73.47619048,-255.9986735,109.0462926,0.999828003
+New England Patriots-Baltimore Ravens,-72.9047619,-255.4272449,109.6177211,0.999852621
+Dallas Cowboys-Chicago Bears,72.76190476,-109.7605783,255.2843878,0.999858255
+New York Giants-Baltimore Ravens,-72.38095238,-254.9034354,110.1415307,0.999872343
+New York Jets-Jacksonville Jaguars,-72.19047619,-254.7129592,110.3320068,0.999878901
+New Orleans Saints-Green Bay Packers,72.14285714,-110.3796259,254.6653402,0.999880492
+Houston Texans-Baltimore Ravens,-74.9047619,-264.8801854,115.0706616,0.999886231
+Dallas Cowboys-Cleveland Browns,71.38095238,-111.1415307,253.9034354,0.999903505
+Tennessee Titans-Cincinnati Bengals,70.33333333,-112.1891497,252.8558164,0.999928603
+Denver Broncos-Baltimore Ravens,-69.66666667,-252.1891497,112.8558164,0.999941316
+Washington Football Team-Baltimore Ravens,-69.42857143,-251.9510545,113.0939116,0.999945331
+Indianapolis Colts-Atlanta Falcons,-69.38095238,-251.9034354,113.1415307,0.999946103
+New York Jets-Cleveland Browns,-69.14285714,-251.6653402,113.3796259,0.999949818
+Minnesota Vikings-Baltimore Ravens,-69.0952381,-251.6177211,113.4272449,0.999950532
+San Francisco 49ers-Baltimore Ravens,-68.95238095,-251.474864,113.5701021,0.99995262
+Seattle Seahawks-Carolina Panthers,68.61904762,-113.9034354,251.1415307,0.999957182
+Tennessee Titans-Miami Dolphins,68.52380952,-113.9986735,251.0462926,0.99995841
+Tennessee Titans-Los Angeles Chargers,68.47619048,-114.0462926,250.9986735,0.999959012
+Jacksonville Jaguars-Dallas Cowboys,-68.33333333,-250.8558164,114.1891497,0.999960769
+New York Jets-Chicago Bears,-67.76190476,-250.2843878,114.7605783,0.999967133
+Detroit Lions-Arizona Cardinals,66.71428571,-115.8081973,249.2367688,0.999976407
+Indianapolis Colts-Carolina Panthers,-66.57142857,-249.0939116,115.9510545,0.999977466
+Tampa Bay Buccaneers-Baltimore Ravens,-65.9047619,-248.4272449,116.6177211,0.999981855
+Seattle Seahawks-Atlanta Falcons,65.80952381,-116.7129592,248.3320068,0.999982413
+Tennessee Titans-Green Bay Packers,65.80952381,-116.7129592,248.3320068,0.999982413
+Pittsburgh Steelers-Baltimore Ravens,-64.95238095,-247.474864,117.5701021,0.999986773
+Pittsburgh Steelers-Kansas City Chiefs,63.52380952,-118.9986735,246.0462926,0.999991893
+New York Jets-Atlanta Falcons,-63.23809524,-245.7605783,119.2843878,0.999992666
+Tampa Bay Buccaneers-Kansas City Chiefs,62.57142857,-119.9510545,245.0939116,0.999994212
+Dallas Cowboys-Arizona Cardinals,61.57142857,-120.9510545,244.0939116,0.999995974
+Detroit Lions-Cincinnati Bengals,61.47619048,-121.0462926,243.9986735,0.999996113
+Seattle Seahawks-Chicago Bears,61.28571429,-121.2367688,243.8081973,0.999996377
+Philadelphia Eagles-Buffalo Bills,61.14285714,-121.3796259,243.6653402,0.999996564
+Los Angeles Rams-Buffalo Bills,60.80952381,-121.7129592,243.3320068,0.999996967
+Kansas City Chiefs-Indianapolis Colts,60.80952381,-121.7129592,243.3320068,0.999996967
+New York Jets-Carolina Panthers,-60.42857143,-242.9510545,122.0939116,0.999997373
+Seattle Seahawks-Cleveland Browns,59.9047619,-122.6177211,242.4272449,0.999997849
+Miami Dolphins-Detroit Lions,-59.66666667,-242.1891497,122.8558164,0.999998038
+Los Angeles Chargers-Detroit Lions,-59.61904762,-242.1415307,122.9034354,0.999998074
+San Francisco 49ers-Kansas City Chiefs,59.52380952,-122.9986735,242.0462926,0.999998144
+Minnesota Vikings-Kansas City Chiefs,59.38095238,-123.1415307,241.9034354,0.999998244
+Washington Football Team-Kansas City Chiefs,59.04761905,-123.474864,241.5701021,0.999998459
+Kansas City Chiefs-Denver Broncos,-58.80952381,-241.3320068,123.7129592,0.999998598
+Pittsburgh Steelers-Carolina Panthers,57.76190476,-124.7605783,240.2843878,0.999999079
+New Orleans Saints-Buffalo Bills,57.38095238,-125.1415307,239.9034354,0.999999213
+Green Bay Packers-Detroit Lions,-56.95238095,-239.474864,125.5701021,0.999999341
+Seattle Seahawks-Jacksonville Jaguars,56.85714286,-125.6653402,239.3796259,0.999999366
+Tampa Bay Buccaneers-Carolina Panthers,56.80952381,-125.7129592,239.3320068,0.999999379
+Dallas Cowboys-Cincinnati Bengals,56.33333333,-126.1891497,238.8558164,0.999999492
+New York Giants-Kansas City Chiefs,56.0952381,-126.4272449,238.6177211,0.999999541
+New England Patriots-Kansas City Chiefs,55.57142857,-126.9510545,238.0939116,0.999999633
+Pittsburgh Steelers-Atlanta Falcons,54.95238095,-127.5701021,237.474864,0.99999972
+New York Jets-Kansas City Chiefs,-54.66666667,-237.1891497,127.8558164,0.999999753
+Miami Dolphins-Dallas Cowboys,-54.52380952,-237.0462926,127.9986735,0.999999768
+Los Angeles Chargers-Dallas Cowboys,-54.47619048,-236.9986735,128.0462926,0.999999773
+Philadelphia Eagles-New England Patriots,54.38095238,-128.1415307,236.9034354,0.999999783
+Philadelphia Eagles-Houston Texans,56.38095238,-133.5944712,246.3563759,0.999999802
+Seattle Seahawks-Baltimore Ravens,-54.0952381,-236.6177211,128.4272449,0.999999809
+New England Patriots-Los Angeles Rams,-54.04761905,-236.5701021,128.474864,0.999999813
+Tampa Bay Buccaneers-Atlanta Falcons,54,-128.522483,236.522483,0.999999817
+Philadelphia Eagles-New York Giants,53.85714286,-128.6653402,236.3796259,0.999999828
+Los Angeles Rams-Houston Texans,56.04761905,-133.9278045,246.0230426,0.999999829
+San Francisco 49ers-Carolina Panthers,53.76190476,-128.7605783,236.2843878,0.999999836
+Minnesota Vikings-Carolina Panthers,53.61904762,-128.9034354,236.1415307,0.999999846
+New York Giants-Los Angeles Rams,-53.52380952,-236.0462926,128.9986735,0.999999853
+Washington Football Team-Carolina Panthers,53.28571429,-129.2367688,235.8081973,0.999999868
+Denver Broncos-Carolina Panthers,53.04761905,-129.474864,235.5701021,0.999999882
+Green Bay Packers-Dallas Cowboys,-51.80952381,-234.3320068,130.7129592,0.999999934
+Kansas City Chiefs-Houston Texans,-53.57142857,-243.5468521,136.403995,0.999999944
+Philadelphia Eagles-Denver Broncos,51.14285714,-131.3796259,233.6653402,0.999999952
+Tennessee Titans-Buffalo Bills,51.04761905,-131.474864,233.5701021,0.999999954
+San Francisco 49ers-Atlanta Falcons,50.95238095,-131.5701021,233.474864,0.999999956
+Washington Football Team-Philadelphia Eagles,-50.9047619,-233.4272449,131.6177211,0.999999957
+Minnesota Vikings-Atlanta Falcons,50.80952381,-131.7129592,233.3320068,0.999999959
+Los Angeles Rams-Denver Broncos,50.80952381,-131.7129592,233.3320068,0.999999959
+New Orleans Saints-New England Patriots,50.61904762,-131.9034354,233.1415307,0.999999963
+Washington Football Team-Los Angeles Rams,-50.57142857,-233.0939116,131.9510545,0.999999964
+Philadelphia Eagles-Minnesota Vikings,50.57142857,-131.9510545,233.0939116,0.999999964
+New Orleans Saints-Houston Texans,52.61904762,-137.3563759,242.5944712,0.999999964
+Washington Football Team-Atlanta Falcons,50.47619048,-132.0462926,232.9986735,0.999999966
+Pittsburgh Steelers-Chicago Bears,50.42857143,-132.0939116,232.9510545,0.999999966
+San Francisco 49ers-Philadelphia Eagles,-50.42857143,-232.9510545,132.0939116,0.999999966
+New York Giants-Carolina Panthers,50.33333333,-132.1891497,232.8558164,0.999999968
+Denver Broncos-Atlanta Falcons,50.23809524,-132.2843878,232.7605783,0.999999969
+Minnesota Vikings-Los Angeles Rams,-50.23809524,-232.7605783,132.2843878,0.999999969
+Seattle Seahawks-Arizona Cardinals,50.0952381,-132.4272449,232.6177211,0.999999972
+San Francisco 49ers-Los Angeles Rams,-50.0952381,-232.6177211,132.4272449,0.999999972
+New York Giants-New Orleans Saints,-50.0952381,-232.6177211,132.4272449,0.999999972
+New England Patriots-Carolina Panthers,49.80952381,-132.7129592,232.3320068,0.999999975
+Tampa Bay Buccaneers-Chicago Bears,49.47619048,-133.0462926,231.9986735,0.999999979
+Pittsburgh Steelers-Cleveland Browns,49.04761905,-133.474864,231.5701021,0.999999983
+Kansas City Chiefs-Buffalo Bills,-48.80952381,-231.3320068,133.7129592,0.999999985
+Tampa Bay Buccaneers-Cleveland Browns,48.0952381,-134.4272449,230.6177211,0.99999999
+New York Giants-Atlanta Falcons,47.52380952,-134.9986735,230.0462926,0.999999993
+New Orleans Saints-Denver Broncos,47.38095238,-135.1415307,229.9034354,0.999999993
+Tampa Bay Buccaneers-Philadelphia Eagles,-47.38095238,-229.9034354,135.1415307,0.999999993
+Washington Football Team-New Orleans Saints,-47.14285714,-229.6653402,135.3796259,0.999999994
+Tampa Bay Buccaneers-Los Angeles Rams,-47.04761905,-229.5701021,135.474864,0.999999994
+New England Patriots-Atlanta Falcons,47,-135.522483,229.522483,0.999999994
+New Orleans Saints-Minnesota Vikings,46.80952381,-135.7129592,229.3320068,0.999999995
+San Francisco 49ers-New Orleans Saints,-46.66666667,-229.1891497,135.8558164,0.999999995
+San Francisco 49ers-Chicago Bears,46.42857143,-136.0939116,228.9510545,0.999999996
+Pittsburgh Steelers-Philadelphia Eagles,-46.42857143,-228.9510545,136.0939116,0.999999996
+Minnesota Vikings-Chicago Bears,46.28571429,-136.2367688,228.8081973,0.999999996
+Pittsburgh Steelers-Los Angeles Rams,-46.0952381,-228.6177211,136.4272449,0.999999997
+Pittsburgh Steelers-Jacksonville Jaguars,46,-136.522483,228.522483,0.999999997
+Washington Football Team-Chicago Bears,45.95238095,-136.5701021,228.474864,0.999999997
+Houston Texans-Carolina Panthers,47.80952381,-142.1658997,237.7849474,0.999999997
+Denver Broncos-Chicago Bears,45.71428571,-136.8081973,228.2367688,0.999999997
+San Francisco 49ers-Cleveland Browns,45.04761905,-137.474864,227.5701021,0.999999998
+Tampa Bay Buccaneers-Jacksonville Jaguars,45.04761905,-137.474864,227.5701021,0.999999998
+Minnesota Vikings-Cleveland Browns,44.9047619,-137.6177211,227.4272449,0.999999998
+Seattle Seahawks-Cincinnati Bengals,44.85714286,-137.6653402,227.3796259,0.999999998
+Washington Football Team-Cleveland Browns,44.57142857,-137.9510545,227.0939116,0.999999999
+Tennessee Titans-Houston Texans,46.28571429,-143.6897093,236.2611378,0.999999999
+Denver Broncos-Cleveland Browns,44.33333333,-138.1891497,226.8558164,0.999999999
+Tennessee Titans-New England Patriots,44.28571429,-138.2367688,226.8081973,0.999999999
+Tennessee Titans-New York Giants,43.76190476,-138.7605783,226.2843878,0.999999999
+Tampa Bay Buccaneers-New Orleans Saints,-43.61904762,-226.1415307,138.9034354,0.999999999
+Houston Texans-Atlanta Falcons,45,-144.9754235,234.9754235,0.999999999
+Carolina Panthers-Buffalo Bills,-43.04761905,-225.5701021,139.474864,0.999999999
+Seattle Seahawks-Miami Dolphins,43.04761905,-139.474864,225.5701021,0.999999999
+New York Giants-Chicago Bears,43,-139.522483,225.522483,0.999999999
+Seattle Seahawks-Los Angeles Chargers,43,-139.522483,225.522483,0.999999999
+Pittsburgh Steelers-New Orleans Saints,-42.66666667,-225.1891497,139.8558164,1
+Dallas Cowboys-Baltimore Ravens,-42.61904762,-225.1415307,139.9034354,1
+New England Patriots-Chicago Bears,42.47619048,-140.0462926,224.9986735,1
+Detroit Lions-Buffalo Bills,42.19047619,-140.3320068,224.7129592,1
+San Francisco 49ers-Jacksonville Jaguars,42,-140.522483,224.522483,1
+Minnesota Vikings-Jacksonville Jaguars,41.85714286,-140.6653402,224.3796259,1
+New York Giants-Cleveland Browns,41.61904762,-140.9034354,224.1415307,1
+Washington Football Team-Jacksonville Jaguars,41.52380952,-140.9986735,224.0462926,1
+Jacksonville Jaguars-Denver Broncos,-41.28571429,-223.8081973,141.2367688,1
+New England Patriots-Cleveland Browns,41.0952381,-141.4272449,223.6177211,1
+Tennessee Titans-Denver Broncos,41.04761905,-141.474864,223.5701021,1
+Washington Football Team-Tennessee Titans,-40.80952381,-223.3320068,141.7129592,1
+Tennessee Titans-Minnesota Vikings,40.47619048,-142.0462926,222.9986735,1
+Seattle Seahawks-Green Bay Packers,40.33333333,-142.1891497,222.8558164,1
+Tennessee Titans-San Francisco 49ers,40.33333333,-142.1891497,222.8558164,1
+Buffalo Bills-Atlanta Falcons,40.23809524,-142.2843878,222.7605783,1
+Pittsburgh Steelers-Arizona Cardinals,39.23809524,-143.2843878,221.7605783,1
+Houston Texans-Chicago Bears,40.47619048,-149.4992331,230.451614,1
+New York Giants-Jacksonville Jaguars,38.57142857,-143.9510545,221.0939116,1
+Tampa Bay Buccaneers-Arizona Cardinals,38.28571429,-144.2367688,220.8081973,1
+New England Patriots-Jacksonville Jaguars,38.04761905,-144.474864,220.5701021,1
+Houston Texans-Cleveland Browns,39.0952381,-150.8801854,229.0706616,1
+Detroit Lions-Baltimore Ravens,-37.47619048,-219.9986735,145.0462926,1
+Tennessee Titans-Tampa Bay Buccaneers,37.28571429,-145.2367688,219.8081973,1
+Dallas Cowboys-Buffalo Bills,37.04761905,-145.474864,219.5701021,1
+Tennessee Titans-Pittsburgh Steelers,36.33333333,-146.1891497,218.8558164,1
+Houston Texans-Detroit Lions,-37.42857143,-227.403995,152.5468521,1
+Chicago Bears-Buffalo Bills,-35.71428571,-218.2367688,146.8081973,1
+Seattle Seahawks-Philadelphia Eagles,-35.57142857,-218.0939116,146.9510545,1
+New England Patriots-Detroit Lions,-35.42857143,-217.9510545,147.0939116,1
+San Francisco 49ers-Arizona Cardinals,35.23809524,-147.2843878,217.7605783,1
+Seattle Seahawks-Los Angeles Rams,-35.23809524,-217.7605783,147.2843878,1
+Minnesota Vikings-Arizona Cardinals,35.0952381,-147.4272449,217.6177211,1
+New York Giants-Detroit Lions,-34.9047619,-217.4272449,147.6177211,1
+Washington Football Team-Arizona Cardinals,34.76190476,-147.7605783,217.2843878,1
+Jacksonville Jaguars-Houston Texans,-36.04761905,-226.0230426,153.9278045,1
+Denver Broncos-Arizona Cardinals,34.52380952,-147.9986735,217.0462926,1
+Cleveland Browns-Buffalo Bills,-34.33333333,-216.8558164,148.1891497,1
+Kansas City Chiefs-Green Bay Packers,-34.04761905,-216.5701021,148.474864,1
+Pittsburgh Steelers-Cincinnati Bengals,34,-148.522483,216.522483,1
+Atlanta Falcons-Arizona Cardinals,-15.71428571,-198.2367688,166.8081973,1
+Buffalo Bills-Arizona Cardinals,24.52380952,-157.9986735,207.0462926,1
+Carolina Panthers-Arizona Cardinals,-18.52380952,-201.0462926,163.9986735,1
+Chicago Bears-Arizona Cardinals,-11.19047619,-193.7129592,171.3320068,1
+Cincinnati Bengals-Arizona Cardinals,5.238095238,-177.2843878,187.7605783,1
+Cleveland Browns-Arizona Cardinals,-9.80952381,-192.3320068,172.7129592,1
+Green Bay Packers-Arizona Cardinals,9.761904762,-172.7605783,192.2843878,1
+Houston Texans-Arizona Cardinals,29.28571429,-160.6897093,219.2611378,1
+Jacksonville Jaguars-Arizona Cardinals,-6.761904762,-189.2843878,175.7605783,1
+Kansas City Chiefs-Arizona Cardinals,-24.28571429,-206.8081973,158.2367688,1
+Los Angeles Chargers-Arizona Cardinals,7.095238095,-175.4272449,189.6177211,1
+Miami Dolphins-Arizona Cardinals,7.047619048,-175.474864,189.5701021,1
+New England Patriots-Arizona Cardinals,31.28571429,-151.2367688,213.8081973,1
+New York Giants-Arizona Cardinals,31.80952381,-150.7129592,214.3320068,1
+Carolina Panthers-Atlanta Falcons,-2.80952381,-185.3320068,179.7129592,1
+Chicago Bears-Atlanta Falcons,4.523809524,-177.9986735,187.0462926,1
+Cincinnati Bengals-Atlanta Falcons,20.95238095,-161.5701021,203.474864,1
+Cleveland Browns-Atlanta Falcons,5.904761905,-176.6177211,188.4272449,1
+Green Bay Packers-Atlanta Falcons,25.47619048,-157.0462926,207.9986735,1
+Jacksonville Jaguars-Atlanta Falcons,8.952380952,-173.5701021,191.474864,1
+Kansas City Chiefs-Atlanta Falcons,-8.571428571,-191.0939116,173.9510545,1
+Los Angeles Chargers-Atlanta Falcons,22.80952381,-159.7129592,205.3320068,1
+Miami Dolphins-Atlanta Falcons,22.76190476,-159.7605783,205.2843878,1
+Los Angeles Rams-Baltimore Ravens,-18.85714286,-201.3796259,163.6653402,1
+New Orleans Saints-Baltimore Ravens,-22.28571429,-204.8081973,160.2367688,1
+Philadelphia Eagles-Baltimore Ravens,-18.52380952,-201.0462926,163.9986735,1
+Tennessee Titans-Baltimore Ravens,-28.61904762,-211.1415307,153.9034354,1
+Cincinnati Bengals-Buffalo Bills,-19.28571429,-201.8081973,163.2367688,1
+Denver Broncos-Buffalo Bills,10,-172.522483,192.522483,1
+Green Bay Packers-Buffalo Bills,-14.76190476,-197.2843878,167.7605783,1
+Houston Texans-Buffalo Bills,4.761904762,-185.2135188,194.7373283,1
+Jacksonville Jaguars-Buffalo Bills,-31.28571429,-213.8081973,151.2367688,1
+Los Angeles Chargers-Buffalo Bills,-17.42857143,-199.9510545,165.0939116,1
+Miami Dolphins-Buffalo Bills,-17.47619048,-199.9986735,165.0462926,1
+Minnesota Vikings-Buffalo Bills,10.57142857,-171.9510545,193.0939116,1
+New England Patriots-Buffalo Bills,6.761904762,-175.7605783,189.2843878,1
+New York Giants-Buffalo Bills,7.285714286,-175.2367688,189.8081973,1
+Pittsburgh Steelers-Buffalo Bills,14.71428571,-167.8081973,197.2367688,1
+San Francisco 49ers-Buffalo Bills,10.71428571,-171.8081973,193.2367688,1
+Seattle Seahawks-Buffalo Bills,25.57142857,-156.9510545,208.0939116,1
+Tampa Bay Buccaneers-Buffalo Bills,13.76190476,-168.7605783,196.2843878,1
+Washington Football Team-Buffalo Bills,10.23809524,-172.2843878,192.7605783,1
+Chicago Bears-Carolina Panthers,7.333333333,-175.1891497,189.8558164,1
+Cincinnati Bengals-Carolina Panthers,23.76190476,-158.7605783,206.2843878,1
+Cleveland Browns-Carolina Panthers,8.714285714,-173.8081973,191.2367688,1
+Green Bay Packers-Carolina Panthers,28.28571429,-154.2367688,210.8081973,1
+Jacksonville Jaguars-Carolina Panthers,11.76190476,-170.7605783,194.2843878,1
+Kansas City Chiefs-Carolina Panthers,-5.761904762,-188.2843878,176.7605783,1
+Los Angeles Chargers-Carolina Panthers,25.61904762,-156.9034354,208.1415307,1
+Miami Dolphins-Carolina Panthers,25.57142857,-156.9510545,208.0939116,1
+Cincinnati Bengals-Chicago Bears,16.42857143,-166.0939116,198.9510545,1
+Cleveland Browns-Chicago Bears,1.380952381,-181.1415307,183.9034354,1
+Green Bay Packers-Chicago Bears,20.95238095,-161.5701021,203.474864,1
+Jacksonville Jaguars-Chicago Bears,4.428571429,-178.0939116,186.9510545,1
+Kansas City Chiefs-Chicago Bears,-13.0952381,-195.6177211,169.4272449,1
+Los Angeles Chargers-Chicago Bears,18.28571429,-164.2367688,200.8081973,1
+Miami Dolphins-Chicago Bears,18.23809524,-164.2843878,200.7605783,1
+Cleveland Browns-Cincinnati Bengals,-15.04761905,-197.5701021,167.474864,1
+Denver Broncos-Cincinnati Bengals,29.28571429,-153.2367688,211.8081973,1
+Green Bay Packers-Cincinnati Bengals,4.523809524,-177.9986735,187.0462926,1
+Houston Texans-Cincinnati Bengals,24.04761905,-165.9278045,214.0230426,1
+Jacksonville Jaguars-Cincinnati Bengals,-12,-194.522483,170.522483,1
+Kansas City Chiefs-Cincinnati Bengals,-29.52380952,-212.0462926,152.9986735,1
+Los Angeles Chargers-Cincinnati Bengals,1.857142857,-180.6653402,184.3796259,1
+Miami Dolphins-Cincinnati Bengals,1.80952381,-180.7129592,184.3320068,1
+Minnesota Vikings-Cincinnati Bengals,29.85714286,-152.6653402,212.3796259,1
+New England Patriots-Cincinnati Bengals,26.04761905,-156.474864,208.5701021,1
+New York Giants-Cincinnati Bengals,26.57142857,-155.9510545,209.0939116,1
+San Francisco 49ers-Cincinnati Bengals,30,-152.522483,212.522483,1
+Tampa Bay Buccaneers-Cincinnati Bengals,33.04761905,-149.474864,215.5701021,1
+Washington Football Team-Cincinnati Bengals,29.52380952,-152.9986735,212.0462926,1
+Green Bay Packers-Cleveland Browns,19.57142857,-162.9510545,202.0939116,1
+Jacksonville Jaguars-Cleveland Browns,3.047619048,-179.474864,185.5701021,1
+Kansas City Chiefs-Cleveland Browns,-14.47619048,-196.9986735,168.0462926,1
+Los Angeles Chargers-Cleveland Browns,16.9047619,-165.6177211,199.4272449,1
+Miami Dolphins-Cleveland Browns,16.85714286,-165.6653402,199.3796259,1
+Denver Broncos-Dallas Cowboys,-27.04761905,-209.5701021,155.474864,1
+Detroit Lions-Dallas Cowboys,5.142857143,-177.3796259,187.6653402,1
+Houston Texans-Dallas Cowboys,-32.28571429,-222.2611378,157.6897093,1
+Los Angeles Rams-Dallas Cowboys,23.76190476,-158.7605783,206.2843878,1
+Minnesota Vikings-Dallas Cowboys,-26.47619048,-208.9986735,156.0462926,1
+New England Patriots-Dallas Cowboys,-30.28571429,-212.8081973,152.2367688,1
+New Orleans Saints-Dallas Cowboys,20.33333333,-162.1891497,202.8558164,1
+New York Giants-Dallas Cowboys,-29.76190476,-212.2843878,152.7605783,1
+Philadelphia Eagles-Dallas Cowboys,24.0952381,-158.4272449,206.6177211,1
+Pittsburgh Steelers-Dallas Cowboys,-22.33333333,-204.8558164,160.1891497,1
+San Francisco 49ers-Dallas Cowboys,-26.33333333,-208.8558164,156.1891497,1
+Seattle Seahawks-Dallas Cowboys,-11.47619048,-193.9986735,171.0462926,1
+Tampa Bay Buccaneers-Dallas Cowboys,-23.28571429,-205.8081973,159.2367688,1
+Tennessee Titans-Dallas Cowboys,14,-168.522483,196.522483,1
+Washington Football Team-Dallas Cowboys,-26.80952381,-209.3320068,155.7129592,1
+Detroit Lions-Denver Broncos,32.19047619,-150.3320068,214.7129592,1
+Green Bay Packers-Denver Broncos,-24.76190476,-207.2843878,157.7605783,1
+Houston Texans-Denver Broncos,-5.238095238,-195.2135188,184.7373283,1
+Los Angeles Chargers-Denver Broncos,-27.42857143,-209.9510545,155.0939116,1
+Miami Dolphins-Denver Broncos,-27.47619048,-209.9986735,155.0462926,1
+Minnesota Vikings-Denver Broncos,0.571428571,-181.9510545,183.0939116,1
+New England Patriots-Denver Broncos,-3.238095238,-185.7605783,179.2843878,1
+New York Giants-Denver Broncos,-2.714285714,-185.2367688,179.8081973,1
+Pittsburgh Steelers-Denver Broncos,4.714285714,-177.8081973,187.2367688,1
+San Francisco 49ers-Denver Broncos,0.714285714,-181.8081973,183.2367688,1
+Seattle Seahawks-Denver Broncos,15.57142857,-166.9510545,198.0939116,1
+Tampa Bay Buccaneers-Denver Broncos,3.761904762,-178.7605783,186.2843878,1
+Washington Football Team-Denver Broncos,0.238095238,-182.2843878,182.7605783,1
+Los Angeles Rams-Detroit Lions,18.61904762,-163.9034354,201.1415307,1
+Minnesota Vikings-Detroit Lions,-31.61904762,-214.1415307,150.9034354,1
+New Orleans Saints-Detroit Lions,15.19047619,-167.3320068,197.7129592,1
+Philadelphia Eagles-Detroit Lions,18.95238095,-163.5701021,201.474864,1
+Pittsburgh Steelers-Detroit Lions,-27.47619048,-209.9986735,155.0462926,1
+San Francisco 49ers-Detroit Lions,-31.47619048,-213.9986735,151.0462926,1
+Seattle Seahawks-Detroit Lions,-16.61904762,-199.1415307,165.9034354,1
+Tampa Bay Buccaneers-Detroit Lions,-28.42857143,-210.9510545,154.0939116,1
+Tennessee Titans-Detroit Lions,8.857142857,-173.6653402,191.3796259,1
+Washington Football Team-Detroit Lions,-31.95238095,-214.474864,150.5701021,1
+Houston Texans-Green Bay Packers,19.52380952,-170.451614,209.4992331,1
+Jacksonville Jaguars-Green Bay Packers,-16.52380952,-199.0462926,165.9986735,1
+Los Angeles Chargers-Green Bay Packers,-2.666666667,-185.1891497,179.8558164,1
+Miami Dolphins-Green Bay Packers,-2.714285714,-185.2367688,179.8081973,1
+Minnesota Vikings-Green Bay Packers,25.33333333,-157.1891497,207.8558164,1
+New England Patriots-Green Bay Packers,21.52380952,-160.9986735,204.0462926,1
+New York Giants-Green Bay Packers,22.04761905,-160.474864,204.5701021,1
+Pittsburgh Steelers-Green Bay Packers,29.47619048,-153.0462926,211.9986735,1
+San Francisco 49ers-Green Bay Packers,25.47619048,-157.0462926,207.9986735,1
+Tampa Bay Buccaneers-Green Bay Packers,28.52380952,-153.9986735,211.0462926,1
+Washington Football Team-Green Bay Packers,25,-157.522483,207.522483,1
+Los Angeles Chargers-Houston Texans,-22.19047619,-212.1658997,167.7849474,1
+Miami Dolphins-Houston Texans,-22.23809524,-212.2135188,167.7373283,1
+Minnesota Vikings-Houston Texans,5.80952381,-184.1658997,195.7849474,1
+New England Patriots-Houston Texans,2,-187.9754235,191.9754235,1
+New York Giants-Houston Texans,2.523809524,-187.451614,192.4992331,1
+Pittsburgh Steelers-Houston Texans,9.952380952,-180.0230426,199.9278045,1
+San Francisco 49ers-Houston Texans,5.952380952,-184.0230426,195.9278045,1
+Seattle Seahawks-Houston Texans,20.80952381,-169.1658997,210.7849474,1
+Tampa Bay Buccaneers-Houston Texans,9,-180.9754235,198.9754235,1
+Washington Football Team-Houston Texans,5.476190476,-184.4992331,195.451614,1
+New York Jets-Indianapolis Colts,6.142857143,-176.3796259,188.6653402,1
+Kansas City Chiefs-Jacksonville Jaguars,-17.52380952,-200.0462926,164.9986735,1
+Los Angeles Chargers-Jacksonville Jaguars,13.85714286,-168.6653402,196.3796259,1
+Miami Dolphins-Jacksonville Jaguars,13.80952381,-168.7129592,196.3320068,1
+Los Angeles Chargers-Kansas City Chiefs,31.38095238,-151.1415307,213.9034354,1
+Miami Dolphins-Kansas City Chiefs,31.33333333,-151.1891497,213.8558164,1
+Miami Dolphins-Los Angeles Chargers,-0.047619048,-182.5701021,182.474864,1
+Minnesota Vikings-Los Angeles Chargers,28,-154.522483,210.522483,1
+New England Patriots-Los Angeles Chargers,24.19047619,-158.3320068,206.7129592,1
+New York Giants-Los Angeles Chargers,24.71428571,-157.8081973,207.2367688,1
+Pittsburgh Steelers-Los Angeles Chargers,32.14285714,-150.3796259,214.6653402,1
+San Francisco 49ers-Los Angeles Chargers,28.14285714,-154.3796259,210.6653402,1
+Tampa Bay Buccaneers-Los Angeles Chargers,31.19047619,-151.3320068,213.7129592,1
+Washington Football Team-Los Angeles Chargers,27.66666667,-154.8558164,210.1891497,1
+New Orleans Saints-Los Angeles Rams,-3.428571429,-185.9510545,179.0939116,1
+Philadelphia Eagles-Los Angeles Rams,0.333333333,-182.1891497,182.8558164,1
+Tennessee Titans-Los Angeles Rams,-9.761904762,-192.2843878,172.7605783,1
+Minnesota Vikings-Miami Dolphins,28.04761905,-154.474864,210.5701021,1
+New England Patriots-Miami Dolphins,24.23809524,-158.2843878,206.7605783,1
+New York Giants-Miami Dolphins,24.76190476,-157.7605783,207.2843878,1
+Pittsburgh Steelers-Miami Dolphins,32.19047619,-150.3320068,214.7129592,1
+San Francisco 49ers-Miami Dolphins,28.19047619,-154.3320068,210.7129592,1
+Tampa Bay Buccaneers-Miami Dolphins,31.23809524,-151.2843878,213.7605783,1
+Washington Football Team-Miami Dolphins,27.71428571,-154.8081973,210.2367688,1
+New England Patriots-Minnesota Vikings,-3.80952381,-186.3320068,178.7129592,1
+New York Giants-Minnesota Vikings,-3.285714286,-185.8081973,179.2367688,1
+Pittsburgh Steelers-Minnesota Vikings,4.142857143,-178.3796259,186.6653402,1
+San Francisco 49ers-Minnesota Vikings,0.142857143,-182.3796259,182.6653402,1
+Seattle Seahawks-Minnesota Vikings,15,-167.522483,197.522483,1
+Tampa Bay Buccaneers-Minnesota Vikings,3.19047619,-179.3320068,185.7129592,1
+Washington Football Team-Minnesota Vikings,-0.333333333,-182.8558164,182.1891497,1
+New York Giants-New England Patriots,0.523809524,-181.9986735,183.0462926,1
+Pittsburgh Steelers-New England Patriots,7.952380952,-174.5701021,190.474864,1
+San Francisco 49ers-New England Patriots,3.952380952,-178.5701021,186.474864,1
+Seattle Seahawks-New England Patriots,18.80952381,-163.7129592,201.3320068,1
+Tampa Bay Buccaneers-New England Patriots,7,-175.522483,189.522483,1
+Washington Football Team-New England Patriots,3.476190476,-179.0462926,185.9986735,1
+Philadelphia Eagles-New Orleans Saints,3.761904762,-178.7605783,186.2843878,1
+Seattle Seahawks-New Orleans Saints,-31.80952381,-214.3320068,150.7129592,1
+Tennessee Titans-New Orleans Saints,-6.333333333,-188.8558164,176.1891497,1
+Pittsburgh Steelers-New York Giants,7.428571429,-175.0939116,189.9510545,1
+San Francisco 49ers-New York Giants,3.428571429,-179.0939116,185.9510545,1
+Seattle Seahawks-New York Giants,18.28571429,-164.2367688,200.8081973,1
+Tampa Bay Buccaneers-New York Giants,6.476190476,-176.0462926,188.9986735,1
+Washington Football Team-New York Giants,2.952380952,-179.5701021,185.474864,1
+Tennessee Titans-Philadelphia Eagles,-10.0952381,-192.6177211,172.4272449,1
+San Francisco 49ers-Pittsburgh Steelers,-4,-186.522483,178.522483,1
+Seattle Seahawks-Pittsburgh Steelers,10.85714286,-171.6653402,193.3796259,1
+Tampa Bay Buccaneers-Pittsburgh Steelers,-0.952380952,-183.474864,181.5701021,1
+Washington Football Team-Pittsburgh Steelers,-4.476190476,-186.9986735,178.0462926,1
+Seattle Seahawks-San Francisco 49ers,14.85714286,-167.6653402,197.3796259,1
+Tampa Bay Buccaneers-San Francisco 49ers,3.047619048,-179.474864,185.5701021,1
+Washington Football Team-San Francisco 49ers,-0.476190476,-182.9986735,182.0462926,1
+Tampa Bay Buccaneers-Seattle Seahawks,-11.80952381,-194.3320068,170.7129592,1
+Tennessee Titans-Seattle Seahawks,25.47619048,-157.0462926,207.9986735,1
+Washington Football Team-Seattle Seahawks,-15.33333333,-197.8558164,167.1891497,1
+Washington Football Team-Tampa Bay Buccaneers,-3.523809524,-186.0462926,178.9986735,1

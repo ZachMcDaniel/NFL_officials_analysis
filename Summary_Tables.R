@@ -106,6 +106,14 @@ team_penalties_by_year$total_penalties <- (team_penalties_by_year$total_home_pen
                                              team_penalties_by_year$total_away_penalties)
 team_penalties_by_year$total_yards <- (team_penalties_by_year$home_yards + team_penalties_by_year$away_yards)
 
+team_penalties_by_year$team_name <- gsub("Washington Redskins","Washington Football Team",
+                                         team_penalties_by_year$team_name)
+team_penalties_by_year$team_name <- gsub("San Diego Chargers", "Los Angeles Chargers",
+                                         team_penalties_by_year$team_name)
+team_penalties_by_year$team_name <- gsub("St. Louis Rams", "Los Angeles Rams", 
+                                         team_penalties_by_year$team_name)
+team_penalties_by_year$team_name <- gsub("Oakland Raiders", "Las Vegas Raiders",
+                                         team_penalties_by_year$team_name)
 
 save(team_penalties_by_year, file = "team_penalties_by_year.rda")
 readr::write_csv(team_penalties_by_year, "team_penalties_by_year.csv")
